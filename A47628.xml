@@ -1,0 +1,1307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three diatribes or discourses first of travel, or a guide for travellers into forein [sic] parts, secondly, of money or coyns, thirdly, of measuring of the distance betwixt place and place / by Edward Leigh, Esq. ...</title>
+            <title>Three diatribes or discourses</title>
+            <author>Leigh, Edward, 1602-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 123 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47628</idno>
+            <idno type="STC">Wing L1010</idno>
+            <idno type="STC">ESTC R12004</idno>
+            <idno type="EEBO-CITATION">12254498</idno>
+            <idno type="OCLC">ocm 12254498</idno>
+            <idno type="VID">57294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57294)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 153:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three diatribes or discourses first of travel, or a guide for travellers into forein [sic] parts, secondly, of money or coyns, thirdly, of measuring of the distance betwixt place and place / by Edward Leigh, Esq. ...</title>
+                  <title>Three diatribes or discourses</title>
+                  <author>Leigh, Edward, 1602-1671.</author>
+               </titleStmt>
+               <extent>[17], 87 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Whitwood ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Each diatribe has special t.p.</note>
+                  <note>Published in 1680 as: The gentlemans guide, in three discourses.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Travel --  Early works to 1800.</term>
+               <term>Money --  Early works to 1800.</term>
+               <term>Distances --  Measurement.</term>
+               <term>Distances --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57294:1"/>
+            <pb facs="tcp:57294:1"/>
+            <p>THREE DIATRIBES OR DISCOURSES.</p>
+            <list>
+               <item>Firſt of <hi>Travel,</hi> Or a <hi>Guide</hi> for <hi>Travellers</hi> into Forein Parts.</item>
+               <item>Secondly, Of <hi>Money</hi> or <hi>Coyns.</hi>
+               </item>
+               <item>Thirdly, Of <hi>Meaſuring</hi> of the Diſtance betwixt <hi>Place</hi> and <hi>Place.</hi>
+               </item>
+            </list>
+            <p>By <hi>Edward Leigh</hi> 
+               <abbr>Eſq</abbr> and Mr. of <hi>Arts</hi> of <hi>Magdalene-Hall</hi> in <hi>Oxford.</hi>
+            </p>
+            <q>Teucri vox apud Ciceronem <bibl>Tuſcul. quaeſt. <hi>l. 5,</hi>
+               </bibl>
+            </q>
+            <q>Socrates, <hi>cum rogaretur, Cujatem ſe eſſe diceret,</hi> Munda<g ref="char:EOLhyphen"/>num, <hi>inquit, totius enim mundi ſeincolam, &amp; civem ar<g ref="char:EOLhyphen"/>bitrabatur.</hi>
+               <bibl>Cicero <hi>ibid.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Whitwood,</hi> at the ſign of the Golden Bell in <hi>Duck-Lane,</hi> near <hi>Smithfield.</hi> 1671.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:57294:2"/>
+            <pb facs="tcp:57294:2"/>
+            <head>The Epiſtle DEDICATORY.</head>
+            <head type="sub">To his deſervedly Honoured Friend <hi>Francis Willughbie,</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <p>SIr, Since I have had the happineſs to be known to you, (my Habitation being not far diſtant from yours) I have found ſo much Candour and Civility in you, that I thought I needed not to ſeek further for a perſon, to whom I ſhould dedicate this little Tract of Travel and Coyns, you having Travelled into the moſt famous Coun<g ref="char:EOLhyphen"/>tries
+<pb facs="tcp:57294:3"/>of <hi>Europe,</hi>
+               <note place="margin">Mr. <hi>Firth</hi> in his Sts. Monu<g ref="char:EOLhyphen"/>ment, re<g ref="char:EOLhyphen"/>ports of my Lord <hi>Willughbies</hi> eldeſt Son, that he had ſeen <hi>Rome,</hi> though he was not at all tainted with her errours: he brought over many of the rarities of other Nations, but none of their ſins.</note> and (being inquiſitive after all Curioſi<g ref="char:EOLhyphen"/>ties) alſo improved your tra<g ref="char:EOLhyphen"/>vel both to the acquiring and knowledge of Coyns, and ma<g ref="char:EOLhyphen"/>ny other rarities, ſome of which you were pleaſed for<g ref="char:EOLhyphen"/>merly to ſhew me and others, and have (for the better com<g ref="char:EOLhyphen"/>pleting of this Treatiſe) com<g ref="char:EOLhyphen"/>municated to me ſeveral Ob<g ref="char:EOLhyphen"/>ſervations, about Forein coyns eſpecially. I would our Gen<g ref="char:EOLhyphen"/>try generally were more ſtu<g ref="char:EOLhyphen"/>dious, and would ſpend their time as profitably as you and
+<pb facs="tcp:57294:3"/>ſome others do. That would confirm what Mr. <hi>Burton</hi> in his Melancholly
+<note n="*" place="margin">Part 1. Sect. 2. Subſect. 15.</note> obſerves of ſome of our <hi>Engliſh</hi> Gentry, that they are excellently well learned, like thoſe <hi>Fuggeri</hi> in <hi>Germany, Du Bartas, Du<g ref="char:EOLhyphen"/>pleſſis, Sadael</hi> in <hi>France, Pi<g ref="char:EOLhyphen"/>cus Mirandula, Scottus, Ba<g ref="char:EOLhyphen"/>rottus</hi> in <hi>Italy.</hi> There is an Honourable Gentleman
+<note n="a" place="margin">Robert Boye <hi>
+                     <abbr>Eſq</abbr>
+                  </hi>
+               </note> now of the Royal Society, (whereof you are likewiſe a worthy Member) who hath Travelled abroad to good purpoſe, and by his Philoſophical
+<note n="b" place="margin">Experi<g ref="char:EOLhyphen"/>menta Fructi fera &amp; Luci. fera.</note> Expe<g ref="char:EOLhyphen"/>riments and other uſeful Trea<g ref="char:EOLhyphen"/>tiſes, hath much honoured the Nation. I may here relate, what I have heard from a very
+<pb facs="tcp:57294:4"/>worthy Divine; that he never knew a Family, wherein the Men and Women both, were of ſo obliging a Carriage, and of ſuch great abilities. There is alſo a learned Knight and Baronet
+<note n="c" place="margin">Sir <hi>Nor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on Knatch<g ref="char:EOLhyphen"/>ball.</hi>
+               </note> of this Parliament (mentioned among the Bene<g ref="char:EOLhyphen"/>factors to the <hi>Polyglott Bible</hi>) who hath written Critical notes in Latine on the New Teſtament. I ſhall onely adde this, that it may ſeem ſtrange for me to publiſh a Diſcourſe of Money, who (when I had the honour to be a Member of the Houſe of Commons) was alwaies ſilent when that Sub<g ref="char:EOLhyphen"/>ject came into debate,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>
+                  <hi>Your Affectionate Friend to ſerve you</hi> Edward Leigh.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:57294:4"/>
+            <head>TO THE Candid READER.</head>
+            <p>REader, It is ſaid of <hi>Ulyſſes, Qui mores hominum multorum vidit, &amp; urbes, Horat. De Arte Poetica.</hi> Yet I would not have thee read my Diſcourſe of Travel, <hi>Peregrinante animo.</hi> The Commodity which comes to humane Societies, by the Tra<g ref="char:EOLhyphen"/>vells of prudent, pious, and well governed perſons, is very great. The Apoſtles, the Diſ<g ref="char:EOLhyphen"/>ciples of Chriſt, and alſo their Diſciples, and many others, have gon through a great part
+<pb facs="tcp:57294:5"/>of the World to convert the <hi>Gentiles.</hi> So if a Voyage be un<g ref="char:EOLhyphen"/>dertaken to know the rites and cuſtomes of ſeveral places, and the forms of Cities, as the <hi>Ro<g ref="char:EOLhyphen"/>man Decemviri</hi> were ſent to <hi>Greece,</hi> that they might know the Laws of that Countrey, and eſpecially <hi>Solons. Pythagoras, Plato, Apollonius</hi> did go into divers Countries to increaſe their knowledge. <hi>Diodorus Si<g ref="char:EOLhyphen"/>culus</hi> &amp; <hi>Strabo</hi> Travelled into ſeveral parts of the World, that they might be acquainted with the Hiſtory and Scituation of thoſe places. <hi>Pauſanias</hi>
+               <note n="*" place="margin">He hath written that excel<g ref="char:EOLhyphen"/>lent book of the Monuments and Antiquities of <hi>Greece,</hi> remaining in his time.</note> 
+               <hi>com<g ref="char:EOLhyphen"/>paſſed Greece, Arrianus,</hi> the
+<pb facs="tcp:57294:5"/>
+               <hi>Euxine Sea,</hi> and <hi>Cluverius</hi> Travelled into many Countries of <hi>Europe,</hi> that they might more exactly deſcribe thoſe parts. The knowledge of Lan<g ref="char:EOLhyphen"/>guages hath incited many to Travel; <hi>Voſſius</hi>
+               <note n="*" place="margin">De <hi>Orig.</hi> &amp; <hi>Prog. Idololat.</hi> l. <hi>3.</hi> c. <hi>37.</hi>
+               </note> instanceth in <hi>Jacobus Golius</hi> (that famous <hi>Arabiſt</hi>) who not ſatisfied with the inſtruction of <hi>Thomas Er<g ref="char:EOLhyphen"/>pinus</hi> in the Arabick <hi>Lan<g ref="char:EOLhyphen"/>guage,</hi>
+               <note place="margin">
+                  <hi>In Aethio<g ref="char:EOLhyphen"/>picis ope<g ref="char:EOLhyphen"/>ram im<g ref="char:EOLhyphen"/>pendebat <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uam.</hi> D. M. <hi>Wanſlebius, qui ad perpoliendum ejus in iiſ<g ref="char:EOLhyphen"/>dem ingenium, in varias orientis oras longa atque periculo<g ref="char:EOLhyphen"/>ſa ſuſcepit Itinera.</hi> D. Caſt. <hi>Praelat. ad Lexic. Heptaglot.</hi> Chriſtianus Rarius Clenard, <hi>and</hi> Warner, <hi>travelled ar for the ſame purpoſe. Dr.</hi> Caſaubon <hi>of</hi> Credulity <hi>and</hi> Incredulity. <hi>part 1. ſaith, that</hi> Jo. Erneſtus Burgravius <hi>profeſſeth to have travelled the greateſt part of</hi> Europe <hi>to ſatisfie his Cu<g ref="char:EOLhyphen"/>rioſity.</hi> Eraſmus <hi>in his</hi> Colloquia <hi>entitles one of them</hi> Pe<g ref="char:EOLhyphen"/>regrinatio Religionis ergo.</note> went firſt into <hi>Mouri<g ref="char:EOLhyphen"/>tania,</hi> and being choſen Succeſ<g ref="char:EOLhyphen"/>ſor to <hi>Erpenius</hi> in his place af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:57294:6"/>his death, he took a long Voyage into <hi>Syria,</hi> and there staid till he had perfected his skill in that Language. I may very well here mention, our worthy profeſſor of the <hi>He<g ref="char:EOLhyphen"/>brew</hi> and <hi>Arabick</hi> Tongues in <hi>Oxford, Dr. Edward Pocock,</hi> who was long abroad at <hi>Alep<g ref="char:EOLhyphen"/>po,</hi> and other places on the ſame account. Where he ſo de<g ref="char:EOLhyphen"/>meaned himſelf, that he was very much reſpected by the Na<g ref="char:EOLhyphen"/>tives, and choſen for an <g ref="char:V">Ʋ</g>mpire amongst them, to compremiſe ſuch differences as fell out there. The learned works he hath publiſhed, give ample Teſtimony of the skil he attain<g ref="char:EOLhyphen"/>ed in the Arabick, eſpecially by
+<pb facs="tcp:57294:6"/>that long Voyage. The Jeſuits themſelves and others write much, how induſtrious the Je<g ref="char:EOLhyphen"/>ſuits were in the propagation of the Chriſtian Faith, and how they have ſown the ſeed of ſa<g ref="char:EOLhyphen"/>ving truth in <hi>China</hi> or elſe<g ref="char:EOLhyphen"/>where.</p>
+            <p>Mr. <hi>Baxter</hi> in the <hi>2d.</hi> part of his last Book of Christiani<g ref="char:EOLhyphen"/>ty, <hi>c. 14. p. 488.</hi> ſaith, The at<g ref="char:EOLhyphen"/>tempts of the Jeſuits in <hi>Congo, Japon</hi> and <hi>China</hi> were a very noble work, and ſo were the <hi>Portugal</hi> Kings encourage<g ref="char:EOLhyphen"/>ments: but two things ſpoiled their ſucceſs.</p>
+            <p>First, That when they took down the Heathens Images, they ſet them up others in their
+<pb facs="tcp:57294:7"/>stead; and made them think that the main difference was, but whoſe Image they ſhould worſhip.</p>
+            <p>Secondly, But eſpecially, that they made them ſee, that while they pretended to promote Re<g ref="char:EOLhyphen"/>ligion, and to ſave their ſouls, they came to promote their own wealth, or the Popes Domini<g ref="char:EOLhyphen"/>on, and to bring their Kings under a Forein power.</p>
+            <p>The honest attempts of Mr. <hi>Eliots</hi> in <hi>New-England,</hi> is much more agreeable to the A<g ref="char:EOLhyphen"/>postles way,
+<note place="margin">
+                  <hi>Videſis Voretii Diſputat. Select. Theol. partem fe<g ref="char:EOLhyphen"/>cundum De Genti<g ref="char:EOLhyphen"/>liſmo</hi> pag. <hi>650.</hi>
+               </note> and maketh more ſerious ſpiritual Chriſtians.</p>
+            <p>
+               <hi>Juſtus Heurnius</hi> (ſon to <hi>John Heurnius</hi> the learned Phyſician) left the ſtudy of
+<pb facs="tcp:57294:7"/>Phyſick, and wholly gave him<g ref="char:EOLhyphen"/>ſelf to the ſtudy of Divinity, that thereby he might be the better inabled to promote the Converſion of the Indians, and taking an Evangelical Em<g ref="char:EOLhyphen"/>baſſie to the Indies, he there abode above <hi>14</hi> Years, preach<g ref="char:EOLhyphen"/>ing to the Indians in their Mo<g ref="char:EOLhyphen"/>ther Tongue, Catechiſing them, and admoniſhing them pri<g ref="char:EOLhyphen"/>vately, and by his ſingular in<g ref="char:EOLhyphen"/>nocenſie,
+<note place="margin">
+                  <hi>He hath publiſhed a Book (which I have ſeen)</hi> De Lega<g ref="char:EOLhyphen"/>tione E<g ref="char:EOLhyphen"/>vangelic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ad Indos capeſſenda.</note> humility and mode<g ref="char:EOLhyphen"/>ſty, and daily fervent devotion, and great charity to the poor; He endeavoured to propagate the Kingdome hf Chriſt among them.</p>
+            <pb facs="tcp:57294:8"/>
+            <p>The Pilgrimages
+<note n="*" place="margin">
+                  <hi>See</hi> Cart<g ref="char:EOLhyphen"/>wright <hi>Confutat. of the Rhe<g ref="char:EOLhyphen"/>miſts Tranſtat. on</hi> Mat. <hi>2.2. and</hi> Du Moulin De Peregrina<g ref="char:EOLhyphen"/>tionibus Superſtit.</note> of the Turks to <hi>Meccha,</hi> and of the Papiſts to <hi>Loretto</hi> are vain, we need not to travel for to find God.</p>
+            <p>I have joyned theſe three Diſcourſes together, ſince in that of Money and Meaſuring, I write of the Forein Coyns and Meaſures, and ſo hoping, that they may be all uſeful to the Traveller, I remain</p>
+            <closer>
+               <signed>Thy Hearty Well-willer, <hi>Edward Leigh.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:57294:8"/>
+                  <p>A Diatribe OF TRAVEL.</p>
+                  <p>By <hi>Edward Leigh</hi> Eſq;</p>
+                  <q>
+                     <bibl>
+                        <hi>Pſal. 107.23, 24.</hi>
+                     </bibl>
+                     <p>They that go down to the Sea in Ships, that do buſineſs in great waters:</p>
+                  </q>
+                  <q>
+                     <p>Theſe ſee the works of the Lord: and his wonders in the deep.</p>
+                     <bibl>Patri eſt, Ubicunque eſt bene.</bibl>
+                  </q>
+                  <p>Printed in the Year, MDCLXXI.</p>
+               </div>
+            </front>
+            <body>
+               <div type="diatribe">
+                  <pb facs="tcp:57294:9"/>
+                  <pb n="1" facs="tcp:57294:9"/>
+                  <head>A DIATRIBE OF Travel.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Ravel in the Younger ſort, is a part of Edu<g ref="char:EOLhyphen"/>cation; in the Elder, a part of Experience. Sir <hi>Francis Bacon's Eſſays.</hi>
+                  </p>
+                  <p>There is no Map like the view of the Coun<g ref="char:EOLhyphen"/>try; One journey will ſhew a man more then any Deſcription can. He that ſear<g ref="char:EOLhyphen"/>cheth Forreign Nations is becoming a
+<pb n="2" facs="tcp:57294:10"/>Gentleman of the World. <hi>Felthams Re<g ref="char:EOLhyphen"/>ſolves of Travel.</hi>
+                  </p>
+                  <p>Many Travellers returning to their own home, bring back only ſome vain Garbs and Faſhions, and are leavened with the ill Cuſtomes and Manners of the Countries they paſſed thorough. <hi>Vagari, Luſtrare, diſquirere qui vis poteſt, pauci indigare, diſcere, id eſt, vere perigrinari.</hi> Lip<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i <hi>Epiſtola ad</hi> Lanoium <hi>de Peregrina<g ref="char:EOLhyphen"/>tione Italica.</hi>
+                     <note n="*" place="margin">The Mar<g ref="char:EOLhyphen"/>chioneſs of <hi>New-Ca<g ref="char:EOLhyphen"/>ſtles</hi> Ora<g ref="char:EOLhyphen"/>tions, part three.</note> I think it moſt requiſite and fit, that none ſhould Travel without leave of the State, or Publick Council; and at their return ſhould be accounta<g ref="char:EOLhyphen"/>ble to the State and Publick Council of their Travels, and the advantages they have made: Dr. <hi>Hall</hi> in his Firſt Decade of Epiſtles, Epiſtle 8th, giving advice to the Earl of <hi>Eſſex</hi> for his Travel, ſaith, There is nothing can quit the labour and coſt of Travel, but the gain of Wiſdom; when young Nobles came to take their leaves of our late King <hi>Charles,</hi> before they Travelled into Forreign parts; He thus councelled them; My Lord, keep alwaies the beſt Company, and be ſure never to be idle.</p>
+                  <p>
+                     <hi>Alſted</hi> in his <hi>Systema Mnemonicum, l.</hi> 4. <hi>De Geographia, Zeilerus</hi> before
+<pb n="3" facs="tcp:57294:10"/>his Itenerary of <hi>Spain</hi> and <hi>Portugal</hi> Monſieur <hi>de Sorbiere</hi> in his <hi>Lettres &amp; Diſcours Lettre</hi> 85. Mr. <hi>Palmer</hi> in his <hi>Traveller,</hi> part ſecond, and Sir <hi>Francis Bacon</hi> in his <hi>Eſſays,</hi> give directions to Tra<g ref="char:EOLhyphen"/>vellers, and ſhew what things are fit to be obſerved by them.</p>
+                  <p>
+                     <hi>Neugebavarus</hi> and <hi>Loyzius</hi> have writ<g ref="char:EOLhyphen"/>ten in Latine <hi>'De Peregrinatione.</hi>
+                     <note place="margin">
+                        <hi>Erpenious</hi> hath put out a little Treatiſe, <hi>De Peregrinatione Gallica. Lipſius,</hi> another, <hi>De Peregrinatione ltalica. Gaſper Ens</hi> hath publiſhed <hi>Deliciae Apodemicae.</hi>
+                     </note>
+                  </p>
+                  <p>Dr. <hi>Hall</hi> hath written in Engliſh of Travelling, his Tract is ſtiled, <hi>Quo vadis.</hi> Sir <hi>Balthaſar Gerbier</hi> hath <hi>Subſidium Pe<g ref="char:EOLhyphen"/>regrinantibus.</hi>
+                  </p>
+                  <p>Mr. <hi>Howell</hi> hath put out inſtructions for forreign Travel.</p>
+                  <p>Mr. <hi>Palmer</hi> alſo hath written an Eſſay of the means how to make our Travels into forreign Countries profitable and honourable; he dedicated it to Prince <hi>Henry.</hi>
+                  </p>
+                  <p>
+                     <hi>Jones</hi> hath put out inſtructions for Travellers.</p>
+                  <p>The Merchant propoſeth to himſelf <hi>bonum utile</hi> in his Travel, and brings
+<pb n="4" facs="tcp:57294:11"/>home exotick Commodities, as Wine, Fruit, Spices, Metals, precious Stones, Silk, and ſuch like, ſerving both for uſe and luxury.</p>
+                  <p>
+                     <hi>Impiger extremos Currit mercatas ad Indos,</hi> Horat. <hi>Epiſt,</hi> 1. <hi>lib.</hi> 1.</p>
+                  <p>The diſſolute rich young Gentleman, <hi>bonum jucundum;</hi> The well-bred Gen<g ref="char:EOLhyphen"/>tleman; <hi>bonum honeſtum,</hi> or honor, that he may accompliſh himſelf for the ſervice of his
+<note n="*" place="margin">Travel<g ref="char:EOLhyphen"/>ling is an honoura<g ref="char:EOLhyphen"/>ble or ho<g ref="char:EOLhyphen"/>neſt action of men in<g ref="char:EOLhyphen"/>to forreign States, chiefly for a publick good to the Country of which ſuch are. <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a. l. meſ. Est Peregrinatio profectio quedam, occupiditate ac deſideri, Extra Loca perluſtrandi, in vicendi &amp; cognoſcendi instituta, ad bonum aliquod inde Acquirendum, quod vel patriae &amp; amicis, vel nobis ipſis pri<g ref="char:EOLhyphen"/>vatim prodeſſe poſſit.</hi> Newgebaverus <hi>de Peregrinatione. Eſt Peregrinatio nihil aliud quam ſtudium per luſtrandi terras Exoticus &amp; Inſulas ab homine idoneo ſuſcipiendum ad artem vel ea acquirenda quae uſui &amp; Emollumento patriae vel Rei eſſe publicae poſſunt.</hi> Loyſies De Peregrinatione <hi>c.</hi> 1. <hi>Ve<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>it Peregrinus a Peregre aut Pereger quod dicitur quaſi per agrum, unde &amp; peragrare quaſi multos agros pererrare,</hi> Voſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Etymol. Ling<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ae <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>atinae.</hi>
+                     </note> Country.</p>
+                  <p>In ſuch a one going to Travel, there is required.</p>
+                  <p>Firſt, A competent age, that he be a<g ref="char:EOLhyphen"/>bove 18 or 20 years old, although the years of 14 or 15 are more proper
+<pb n="5" facs="tcp:57294:11"/>for learning the true accent of any Lan<g ref="char:EOLhyphen"/>guage, and all exerciſes belonging to the body.</p>
+                  <p>Secondly, That he hath the Latine Tongue, and ſome skill in the Liberal Sciences.</p>
+                  <p>Thirdly,
+<note n="†" place="margin">See Mr. <hi>Evelius</hi> account of Archite<g ref="char:EOLhyphen"/>cture, and <hi>Junius</hi>'s art of Painting, <hi>l</hi> 2. <hi>c.</hi> 8. Painting and Sculpture are the Politeſt, and Nobleſt of antient Arts; what Art can be more helpful or pleaſing, to a Philoſophical Traveller, <hi>Philoſ. Tranſact.</hi> Vol. 3. p. 785.</note> That he be skilful in Ar<g ref="char:EOLhyphen"/>chitecture, able ſo well to Limn or Paint; as to take in paper the Scituation of a Caſtle or a City; or the Platform of a Fortification.</p>
+                  <p>Fourthly, That he be well grounded in the true Religion, leſt he be ſeduced and perverted. <hi>Gal.</hi> 4.1. <hi>O fooliſh Gala<g ref="char:EOLhyphen"/>tians, who hath bewitched you, that you ſhould not obey the truth, Galli a peregri<g ref="char:EOLhyphen"/>nando nomen habent;</hi> For <hi>Vuallen</hi> in the Teutonick Tongue, ſignifies <hi>peregrinari,</hi> alluding therefore to this Etymoligy: He chides the <hi>Galatians</hi> for their wandering in Religion, <hi>q. d.</hi> You like Travellers, of<g ref="char:EOLhyphen"/>ten change your Opinions about the Do<g ref="char:EOLhyphen"/>ctrine of Truth. I know a Noble Per<g ref="char:EOLhyphen"/>ſon
+<pb n="6" facs="tcp:57294:12"/>who being in <hi>France</hi> well acquainted with a Popiſh Gentleman, once when the other left him, he wiſht that he were as good a <hi>Hugonot</hi> as himſelf; the other im<g ref="char:EOLhyphen"/>mediately after ſent him a Defence of their Religion, to which he replyed, and ſhewed the ſame unto me: I more diſliked the Popiſh Religion when <hi>I</hi> was in <hi>France</hi> then before, and more eſteemed the Pro<g ref="char:EOLhyphen"/>teſtants, ſince at <hi>Nants,</hi> and ſome pla<g ref="char:EOLhyphen"/>ces, there were ſcarce any French Prote<g ref="char:EOLhyphen"/>ſtants.</p>
+                  <p>Fifthly, He ſhould be firſt well ac<g ref="char:EOLhyphen"/>quainted with his own Country, before he go abroad; as to the places and Go<g ref="char:EOLhyphen"/>vernment.</p>
+                  <p>If any came heretofore to the Lords of the Council for a Licenſe to Travel; the old Lord Treaſurer <hi>Burleigh,</hi> would firſt examine him of <hi>England;</hi> if he found him ignorant, he would bid him ſtay at home, and know his own Country firſt.</p>
+                  <p>Sixthly, It were of uſe to inform him<g ref="char:EOLhyphen"/>ſelf (before he undertakes his Voyage,) by the beſt Chorographical and Geogra<g ref="char:EOLhyphen"/>phical Map of the Scituation of the coun<g ref="char:EOLhyphen"/>try he goes to, both in it ſelf and Rela<g ref="char:EOLhyphen"/>tively to the Univerſe, to compare the <hi>Vetus &amp; Hodierna Regio,</hi> and to carry
+<pb n="7" facs="tcp:57294:12"/>with him the Republicks of the Nations to which he goes; and a Map of every Country he intends to travel thorough.</p>
+                  <p>Seventhly, Before his Voyage,
+<note n="*" place="margin">This good and Chri<g ref="char:EOLhyphen"/>ſtian Counſel is given by <hi>Martinus Zeilerus</hi> in his Apo<g ref="char:EOLhyphen"/>demical Canons before his Itenerary of <hi>Spain</hi> and <hi>Portugal.</hi>
+                     </note> He ſhould make his peace with God, Re<g ref="char:EOLhyphen"/>ceive the Lords Supper, ſatisfie his Cre<g ref="char:EOLhyphen"/>ditors if he be in debt; Pray earneſtly to God to proſper him in his Voyage, and to keep him from danger, and if he be <hi>ſui juris,</hi> he ſhould make his laſt will, and wiſely order all his affairs, ſince ma<g ref="char:EOLhyphen"/>ny that go far abroad, return not home.</p>
+                  <div type="part">
+                     <head>In the Survey of a Countrey, theſe things are obſervable.</head>
+                     <p>Firſt,
+<note n="†" place="margin">
+                           <hi>Finis Pe<g ref="char:EOLhyphen"/>regrina<g ref="char:EOLhyphen"/>tionis ſit notitia ſextuplex, Ling<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ae Regionis Religionis Rerum ge<g ref="char:EOLhyphen"/>ſtarum morum &amp; Clarorum virorum. Erpenius</hi> De Peregrination<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Gallica.</note> The Name and its derivation, the Latitude and Longitude of the place, the Temperature of the Climate, the goodneſs or barrenneſs of the Ground, the populouſneſs or ſcarcity of the Peo<g ref="char:EOLhyphen"/>ple, the limits of the Countrey, how it is bounded by Sea or Land, or both, the Commodities, Natural, Artificial, the
+<pb n="8" facs="tcp:57294:13"/>Diſ-commodities, either Imperfections or Wants, the Manners, Shape, Lan<g ref="char:EOLhyphen"/>guage and Attire of the People, their Building, their Havens and Harbours, the Religion and Government, the Hiſtory of the Countrey and Families.</p>
+                     <p n="2">2. The Courts of
+<note n="†" place="margin">
+                           <hi>Jones</hi> in his Inſtru<g ref="char:EOLhyphen"/>ctions to Travellers mentions twelve ge<g ref="char:EOLhyphen"/>nerals. 1. Coſmo<g ref="char:EOLhyphen"/>graphie. 2. Aſtrono<g ref="char:EOLhyphen"/>my. 3. Geogra<g ref="char:EOLhyphen"/>phy. 4. Choro<g ref="char:EOLhyphen"/>graphy. 5. Topogra<g ref="char:EOLhyphen"/>phy. 6. Husban<g ref="char:EOLhyphen"/>dry. 7. Na<g ref="char:EOLhyphen"/>vigation. 8. The Po<g ref="char:EOLhyphen"/>litical State. 9. The Eccleſiaſtical State. 10. Literature. 11. Hiſtories. 12. Chronicles, and under every one of theſe Heads, hath ſeveral particulars.</note> Princes are to be ſeen and obſerved, eſpecially when they give audience to Embaſſadors, the Courts of Juſtice whiles they ſit and hear Cauſes, and ſo of Conſiſtories Ec<g ref="char:EOLhyphen"/>cleſiaſtick, the Churches and Monuments therein, the Walls and Fortifications, of Cities and Towns, Antiquities and Ruines, Libraries, Colledges, Diſputati<g ref="char:EOLhyphen"/>ons and Lectures where they are, Ship<g ref="char:EOLhyphen"/>ing and Navies, Houſes and Gardens of State and pleaſure near great Cities; Armories, Arſenals, Magazines, Ex<g ref="char:EOLhyphen"/>changes, Burſes, Ware-houſes; Exer<g ref="char:EOLhyphen"/>ciſes of Horſemanſhip, Fencing, Train<g ref="char:EOLhyphen"/>ing of Soldiers, and the like; Treaſuries
+<pb n="9" facs="tcp:57294:13"/>of Jewels and Robes, Cabinets, and rare Inventions.</p>
+                     <p>
+                        <hi>Aubertus Miraeus</hi> in the Life of <hi>Lipſius,</hi> ſaith, that when he came firſt to <hi>Rome,</hi> he ſpent all his time (when he was at leiſure) in viewing the ſtones and antient places, and other rarities there, and ſpent his time in the Popes Vatican Library, in comparing together the Ma<g ref="char:EOLhyphen"/>nuſcripts of <hi>Seneca, Tacitus, Plautus, Propertius,</hi> and other Antients. He view<g ref="char:EOLhyphen"/>ed alſo other famous Libraries publick and private.</p>
+                     <p>Thirdly, The choice Herbs
+<note n="†" place="margin">The Gar<g ref="char:EOLhyphen"/>dens, ſorts of Herbs, Flowers, Arbours, Knots, Mounts. The Or<g ref="char:EOLhyphen"/>chards, ſorts of Trees, Apples, Pears, Plumbs, Berries, Spices, Orrenges, Lemmons, Figs; the Vines, Vine-yards; ſorts of Wine and Drinks. <hi>Jones.</hi>
+                        </note> and Plants, Beaſts, Birds, Fiſhes, and Inſects proper to that Country, are to be taken notice of; Minerals, Metals, Stones, and Earths; their Proverbs alſo ſhould be obſerved, in which much of the wiſdom of a Nation is found.</p>
+                     <p>Fourthly, Learned men, and ſuch as have abilities in any kind, are worthy to be known, and the beſt Books there, are to be inquired after. Men that Travel
+<pb n="10" facs="tcp:57294:14"/>muſt be very cautious both of their ſpeech and demeanour; The <hi>Italian</hi> Pro<g ref="char:EOLhyphen"/>verb ſaith, For a man to travel ſafely thorough the world, <hi>It behoveth him to have a Faulcons Eye, an Aſſes Ears, a Monkies Face, Merchants Words, a Camels Back, a Hogs Mouth, and Deers Feet.</hi>
+                     </p>
+                     <p>Sir <hi>Henry Wotton</hi> in his Letters, men<g ref="char:EOLhyphen"/>tions twice the anſwer that was given him by <hi>Alberto Scipioni,</hi> when he beg'd his advice, how he might carry himſelf ſecurely at
+<note n="*" place="margin">The <hi>Ae<g ref="char:EOLhyphen"/>thiopians</hi> ſay, when thou ſhalt go into a<g ref="char:EOLhyphen"/>nother Country, <hi>Ne ſis ſi<g ref="char:EOLhyphen"/>cut tu, Eſto ſicut illi in Ita<g ref="char:EOLhyphen"/>liâ tota tria hac mihi ſerva, Frons tibi aperta, Lingua parca mens Clauſam.</hi> Lipſn <hi>Epiſtola ad Lanoyum. In peregrinatione vitam agentibus hoc evenit, ut multa hoſpitia habeant nul<g ref="char:EOLhyphen"/>la amicitias,</hi> Seneca <hi>Epiſt. ad</hi> Lucilium <hi>Epiſt.</hi> 11. <hi>Peregri<g ref="char:EOLhyphen"/>m autem &amp; in cola officium eſt, nihil praeter ſuum negoti<g ref="char:EOLhyphen"/>um agere, nihil de alio inquirere, miniméque in alienâ eſſe Republica Curioſum.</hi> Tull. Offic. l. 1.</note> 
+                        <hi>Rome, Signor Arrigomio</hi> (ſays he) <hi>Penſieri Stretti, Et il viſo Sci<g ref="char:EOLhyphen"/>olto, Your thoughts cloſe, and your Coun<g ref="char:EOLhyphen"/>tenance looſe, will go ſafely over the whole world.</hi>
+                     </p>
+                     <pb n="11" facs="tcp:57294:14"/>
+                     <p>Fifthly,
+<note n="†" place="margin">The prime Italian Dialect is <hi>Lingua Toſcana in Bocca Ro<g ref="char:EOLhyphen"/>mana,</hi> the Tuſcane Tongue in a Romane mouth. <hi>Howels</hi> Inſtructions for Forreign Travels.</note> Make choice of the beſt pla<g ref="char:EOLhyphen"/>ces for attaining of the Language, as <hi>Valladolid</hi> for the <hi>Spaniſh, Orleans,</hi> or <hi>Blois</hi> for the <hi>French, Florence</hi> or <hi>Sienna</hi> for the <hi>Italian, Lipſick</hi> or <hi>Heidelberg</hi> for the <hi>High-Dutch</hi> Tongues: in theſe places the beſt Language is ſpoken.</p>
+                     <p>
+                        <hi>Abraham Ortelius</hi> in his <hi>Itinerari<g ref="char:EOLhyphen"/>um Belgiae,</hi> perſwades Travellers to note, and obſerve what they ſee moſt memora<g ref="char:EOLhyphen"/>ble; <hi>Peregrinationes nostrae futurae nobis erunt longe gratiores, ſi una cum itineri<g ref="char:EOLhyphen"/>bus animadvertamus, &amp; annotemus in Chartis, ſi quid obſervatione dignum oc<g ref="char:EOLhyphen"/>currerit.</hi>
+                     </p>
+                     <p>What profit Travelling brings to an Architect, <hi>Vitruvius</hi> ſhews, what to a Souldier, <hi>Vegetius,</hi> what to a Limner or Statuary, the Horſes of <hi>Phidias</hi>
+                        <note n="*" place="margin">Theſe with o<g ref="char:EOLhyphen"/>ther <hi>Col<g ref="char:EOLhyphen"/>loſſi</hi> Sta<g ref="char:EOLhyphen"/>tues and Pictures are yet at <hi>Rome.</hi>
+                        </note> and <hi>Praxiteles</hi> made by art, witneſs; Mer<g ref="char:EOLhyphen"/>chandiſe is almoſt maintained by Travel; How much are Coſmography, Topo<g ref="char:EOLhyphen"/>graphy and Aſtronomy, improved and furthered by Travel.</p>
+                     <p>Change of Air by Travelling, after one is uſed unto it, is good: And there<g ref="char:EOLhyphen"/>fore
+<pb n="12" facs="tcp:57294:15"/>great Travellers have been long liv'd: The Countries which have been obſerved, to produce long livers, are theſe; <hi>Arcadia, Aetolia, India,</hi> on this ſide <hi>Ganges, Braſil, Topropane, Bitain, Ireland,</hi> with the Iſlands of the <hi>Arcades,</hi> and <hi>Hebrides,</hi> Sir <hi>Francis Bacon's</hi> Hiſtory of Life and Death.</p>
+                     <p>How much may the art of Navigation further the ſpreading of the Goſpel!
+<note place="margin">
+                           <hi>Rem pro<g ref="char:EOLhyphen"/>fecto fa<g ref="char:EOLhyphen"/>ſtigio ſuo dignam principes fecerint, ſi ſaſſeis non ad divitias indagandas, quae hodie ſola fere pe<g ref="char:EOLhyphen"/>riculoſarum &amp; longin quarum navigationem ille cebra est, ſed ad verbi dominici promulgationem inter illos populos ad huc veri luce deſtitutos, miſſis ad hoc theologis propagandam inſtruerent, ſi quid inde utilitatis poſtea ex commercii li<g ref="char:EOLhyphen"/>bertate in publico rediret, in lucro ponentes &amp; acceſſionis loco accipientes, nam ex eo eſſet ut Dei gratia, ſine qua nihil poſ<g ref="char:EOLhyphen"/>ſumus, expeditionibus illis aſpiraret, &amp; aſpirante illa citra ſanguinem &amp; indigenarum vexationem res in his regionibus, quantum ad religionem &amp; civilem adminiſtrationem felici<g ref="char:EOLhyphen"/>oribus auſpiciis, adminiſtrarentur, quam ab Hiſpanis factum eſt, qui avaritia Caeci</hi> xxx. <hi>Annos mutuis lanienis miſeros indigenas in Indiis &amp; ad extremum ſeipſos graſſante inter eos divina ultione confecerunt.</hi> Thuan. Hiſt. lib. 64.</note> 
+                        <hi>Dan.</hi> 12.4. <hi>Many ſhall run to and fro, and knowledge ſhall be increaſed,</hi> that is, ſay ſome Expoſitors by Travelling to and fro, as the <hi>Waldenſes</hi> to learn and propagate the Truth, knowledge ſhall
+<pb n="13" facs="tcp:57294:15"/>be multiplied in the earth in the laſt time. The ſame word is uſed, <hi>Numb.</hi> 11.8. Of the Children of <hi>Iſrael</hi> going about to gather Manna, and of the Devils go<g ref="char:EOLhyphen"/>ing to and fro, <hi>Job.</hi> 1. and 7. Manifeſt<g ref="char:EOLhyphen"/>ly intimating, ſaith, Sir <hi>Francis Bacon, De Augmentis Scientiarum l.</hi> 2. <hi>c.</hi> 10. <hi>Et Nov. Org. l.</hi> 1. <hi>Aphor.</hi> 93. that God would ſo order it by his providence, that the paſſing through the world (which is now fulfilled by ſo many far Navigati<g ref="char:EOLhyphen"/>ons) and the increaſing of Sciences ſhould fall into the ſame age.</p>
+                     <p>
+                        <hi>Orbis terrarum factus eſt hac no<g ref="char:EOLhyphen"/>ſtra aetate, mirum in modum faeneſtra<g ref="char:EOLhyphen"/>tus atque patens Baconus De Augmentis Scientiarum, l.</hi> 2. <hi>c.</hi> 10. <hi>Noſtris tempo<g ref="char:EOLhyphen"/>ribus &amp; novi orbis partes complures, &amp; veteris orbis extrema undique innoteſcunt.</hi> Baconus Nov. Org. l. 1. Aphor. 72.</p>
+                     <p>In the <hi>Philoſophical Conferences</hi> of the <hi>Virtuoſi</hi> of <hi>France</hi> Conference 87. It is determined whether Travel be neceſſary to an ingenuous man. He ſaith there, if you except Embaſſies,
+<note place="margin">
+                           <hi>Imperetam anima ho<g ref="char:EOLhyphen"/>mo, qui Circum ſcribitur natalis ſoli fine,</hi> Seneca.</note> in which the good of the State drowns all other conſidera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<g ref="char:EOLhyphen"/>ons, thoſe that would Travel muſt be
+<pb n="14" facs="tcp:57294:16"/>young and ſtrong, rich and well borne, to get any good by their Travells.</p>
+                     <p>
+                        <hi>La Moth le Vair</hi> in his <hi>Opuſcules Lettre</hi> 6.
+<note place="margin">
+                           <p>
+                              <hi>Humiles iſtae &amp; plebeae animae do<g ref="char:EOLhyphen"/>mi reſident &amp; affixae ſunt ſuae terrae: illa divinior eſt quae coelum im<g ref="char:EOLhyphen"/>itatur &amp; gaudet motu.</hi> Lipſii Epiſtola de Peregrinatione Italica.</p>
+                           <p>
+                              <hi>Hodie magnum dedecus eſt Germanis patrios tantum noſſe mores; praecipua vero pars laudis exteras regiones, ad mi<g ref="char:EOLhyphen"/>nimum, Italiam, Gallias, Hiſpaniam, Belgiam, Angliam, ve per luſtralle.</hi> Balduini <hi>Oratio Panegyrica.</hi>
+                           </p>
+                        </note> Speaks of the profit of <hi>Voyages,</hi> and Lettre 7. of the unprofitableneſs of them, he ſaith in the ſixth Letter, that Travelling is the beſt School for life, in ſeveral reſpects: The French ſay <hi>
+                           <g ref="char:V">Ʋ</g>n ho<g ref="char:EOLhyphen"/>neſte homme, Eſt un homme meſte,</hi> an ho<g ref="char:EOLhyphen"/>neſt or wiſe man is a mixt man, that is, one who hath ſomthing in him, in point of knowledge of all Nations.</p>
+                     <p>
+                        <hi>Charles</hi> the fifth made Nine Voyages,
+<note place="margin">The States of the Em<g ref="char:EOLhyphen"/>pire. <hi>Dial.</hi> 1.</note> into <hi>Germany,</hi> Six into <hi>Spain,</hi> Seven in<g ref="char:EOLhyphen"/>to <hi>Italy,</hi> four into <hi>France,</hi> Ten into the <hi>Low-Countries,</hi> Two into <hi>England,</hi> as many into <hi>Affrica,</hi> he alſo paſſed the <hi>Ocean</hi> and <hi>Mediterranean</hi> Seas eleven times.</p>
+                     <pb n="15" facs="tcp:57294:16"/>
+                     <p>The Emperour <hi>Hadrian</hi> travelled o<g ref="char:EOLhyphen"/>ver a great part of the world,
+<note place="margin">
+                           <hi>Linguetus non minus doctrina quàm diu<g ref="char:EOLhyphen"/>turna to<g ref="char:EOLhyphen"/>tius Euro<g ref="char:EOLhyphen"/>pae pera<g ref="char:EOLhyphen"/>gratione Clarus Bo<g ref="char:EOLhyphen"/>dini me<g ref="char:EOLhyphen"/>thodus Ad Facilem Hiſtoriarum Cognitionem.</hi> Polybius <hi>nequid falſi ſcriberet imprudens, in longe ſemotas profectus eſt oras, eaſque ſuis luſtravit oculis</hi> Diodor. <hi>Sicul. Ex teſtimonia Juſtini martyris, annos triginta Europiam atque Aliam luſtravit Pauli Poet. not. in Marc. &amp; Com. Imperat. Vitam. Proſ<g ref="char:EOLhyphen"/>per Alpinus olim Aegyptum magno cum fructu ſtudioſae ju<g ref="char:EOLhyphen"/>ventutis peragravit. Pignorii menſae Iſiacae expoſitio</hi> Pytha<g ref="char:EOLhyphen"/>goras <hi>quidem inter Barbaros diſcendi cauſa peregrinatus eſt, atque ut nonnulli tradiderunt, Prophetam</hi> Ezechielem <hi>vi<g ref="char:EOLhyphen"/>dit</hi> Douneaeus <hi>in</hi> Chryſoſt. <hi>Vide</hi> Selden. <hi>de jure,</hi> &amp;c. <hi>Lib.</hi> 1. <hi>Cap.</hi> 2.</note> and with his Head bare, though it was cold and wet, and ſo fell into a deadly dſeaſe; whence the Verſes of <hi>Florus</hi> the Poet, whom <hi>Salmaſius</hi> (in his notes on <hi>Aelius Spartianus</hi>) thinks to be the Hiſtorian, who elegantly wrote the Epitome of the <hi>Roman</hi> affairs and lived under <hi>Hadrian.</hi>
+                     </p>
+                     <q>
+                        <lg>
+                           <l>
+                              <hi>Ego nolo Caeſar eſſe,</hi>
+                           </l>
+                           <l>
+                              <hi>Ambulare per Britannos,</hi>
+                           </l>
+                           <l>
+                              <hi>Scythicas pati pruinas.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>I</hi> will in no wiſe <hi>Caeſar</hi> be,</l>
+                           <l>To walk along in <hi>Britainie,</hi>
+                           </l>
+                           <l>The <hi>Scythick</hi> froſts to feel and ſee.</l>
+                        </lg>
+                     </q>
+                  </div>
+                  <div type="part">
+                     <pb n="16" facs="tcp:57294:17"/>
+                     <head>To which the Emperour anſwered in the like ſtrain</head>
+                     <q>
+                        <lg>
+                           <l>
+                              <hi>Ego nolo Florus eſſe,</hi>
+                           </l>
+                           <l>
+                              <hi>Ambulare per tabernas,</hi>
+                           </l>
+                           <l>
+                              <hi>Latitare per popinas,</hi>
+                           </l>
+                           <l>
+                              <hi>Culices pati rotundos.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>And <hi>I</hi> will never <hi>Florus</hi> be,</l>
+                           <l>To walk from ſhop to ſhop, as he,</l>
+                           <l>To lurk in Taverns ſecretly,</l>
+                           <l>And there to feel the <hi>Rome</hi>-wine fly</l>
+                        </lg>
+                     </q>
+                     <p>But (ſaith <hi>Stuckius</hi>) how many Chri<g ref="char:EOLhyphen"/>ſtian Princes and Nobles are now to be found,
+<note place="margin">
+                           <hi>In his Scholia in Arriani Periplum Pontei Euxini. William Poſtel</hi> a French-man, was a great Traveller and Mathematician.</note> more like <hi>Florus</hi> than the Empe<g ref="char:EOLhyphen"/>rour <hi>Adrian?</hi>
+                     </p>
+                     <p>They that have written the Iteneraries of the Apoſtles,
+<note place="margin">See 2 <hi>Cor,</hi> 11.25.</note> have obſerved that St. <hi>Paul</hi> Travel'd much farther, than either St. <hi>Peter</hi> or St. <hi>John,</hi> as they have de<g ref="char:EOLhyphen"/>ſcribed the circuite; and <hi>Purchas</hi> both Divines, of which laſt, Dr. <hi>Caſaubon</hi> of Credulity and Incredulity, part firſt,
+<pb n="17" facs="tcp:57294:17"/>ſaith, a book of very good worth with them that know the right uſe, and more valued abroad, than it is at home by ma<g ref="char:EOLhyphen"/>ny. Of the Navigation of the <hi>French</hi> into <hi>America, Johannes Lerius</hi> hath writ<g ref="char:EOLhyphen"/>ten well of the
+<note n="†" place="margin">
+                           <hi>Probae<g ref="char:EOLhyphen"/>bile eſt ideo poetas fixiſſe Ae<g ref="char:EOLhyphen"/>neam, Her<g ref="char:EOLhyphen"/>culem, The ſeum, Pyritho<g ref="char:EOLhyphen"/>um, <g ref="char:V">Ʋ</g>lyſ<g ref="char:EOLhyphen"/>ſem &amp; Or<g ref="char:EOLhyphen"/>pheum, ad inferos de<g ref="char:EOLhyphen"/>ſcendiſſe, propter longinquas Eorum Naviga<g ref="char:EOLhyphen"/>tiones qui<g ref="char:EOLhyphen"/>bus a Con<g ref="char:EOLhyphen"/>ſpectu ho<g ref="char:EOLhyphen"/>minum diu ſepa<g ref="char:EOLhyphen"/>rati, mox reduces, Exiſtimati ſunt eo perveniſſe ſi animae poſt mortem degunt Moryſoti Orbis.</hi> Maritimi Hiſt. <hi>l.</hi> 1. <hi>c.</hi> 33.</note> 
+                        <hi>Navigations</hi> of the <hi>Por<g ref="char:EOLhyphen"/>tugals</hi> and <hi>Spaniards,</hi> See <hi>Guicciardines</hi> Hiſtory of <hi>Italy, lib.</hi> 6. Of thoſe of the <hi>Engliſh, Hackluit</hi> ſpeaks ſufficiently. Of the profit which comes to men by <hi>Na<g ref="char:EOLhyphen"/>vigations,</hi> ſee <hi>Fourniers Hydrography, l.</hi> 4. <hi>c.</hi> 9. and of the Faith enlarged and amplified by means of Navigation: See the ſame book, chap. 6. There are alſo the <hi>Navigations</hi> and <hi>Voyages</hi> of <hi>Leyis Vertomannus,</hi> and <hi>Cadamuſti Navigatio ad terras ignotas,</hi> of whom <hi>Peter Mar<g ref="char:EOLhyphen"/>tyr</hi> ſaith, in the ſeventh Chapter of his ſecond <hi>Decade,</hi> that he ſtole certain An notations out of the three firſt Chapters of his firſt <hi>Decade,</hi> written to Cardinal <hi>Aſcanius</hi> and <hi>Acimboldus,</hi> ſuppoſing that he would never have publiſhed the ſame.</p>
+                     <pb n="18" facs="tcp:57294:18"/>
+                     <p>Dr. <hi>Caſaubon</hi> (in his firſt part of Cre<g ref="char:EOLhyphen"/>dulity and Incredulity, in things Natural, Civil and Divine) ſaith, I have (as all men, I think have, that are any thing curious) read ſeveral relations of all the known parts of the world, written by men of ſeveral Nations and Profeſſi<g ref="char:EOLhyphen"/>ons, Learned and Unlearned, in divers Languages; by men of ſeveral ages, an<g ref="char:EOLhyphen"/>cient and late.</p>
+                     <p>There are divers <hi>Hodaeporica Voyages,</hi> and Itineraries, Antient, Modern, in Proſe, Verſe, in Latin, French, Engliſh.</p>
+                     <p>
+                        <note n="†" place="margin">
+                           <hi>Vixit</hi> Benjamin <hi>ut ejus in<g ref="char:EOLhyphen"/>terpres be<g ref="char:EOLhyphen"/>nedictus Arias<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> teſ<g ref="char:EOLhyphen"/>tatur, an<g ref="char:EOLhyphen"/>no ab orbe Condito.</hi> 4033. Druſ. Ob<g ref="char:EOLhyphen"/>ſervat. Sac. <hi>l.</hi> 13. <hi>c.</hi> 2.</note> 
+                        <hi>Benjamin Tidelenſis,</hi> his Itinerary. He was a Jew, and travelled over a great part of the world. <hi>Ecchellenſis</hi> in his Pre<g ref="char:EOLhyphen"/>face to his <hi>Hiſtoria Arabum</hi> ſeems to ſlight him: <hi>Conſtantine l'Empereur</hi> (who hath publiſht notes upon him) ſaith, in his <hi>Diſſertat. Ad Lectorem. Cum judicio legen<g ref="char:EOLhyphen"/>dum hoc itinerarium, nec auctori in om<g ref="char:EOLhyphen"/>nibus habenda fides, praeſertim ubi ſuorum conditionem ac statum extollit: plurima tamen notatu digna paſſim occurrunt, ut quae de locorum diſtantiis aliiſque annotat.</hi>
+                     </p>
+                     <p>There is <hi>Cotovici Itinerarium Hiero<g ref="char:EOLhyphen"/>ſolymitanum &amp; Syriacum.</hi>
+                     </p>
+                     <p>
+                        <hi>Buſbequii
+<note n="*" place="margin">
+                              <hi>Angeriue Giſtenus Busbequius multis legationibus Elarus.</hi> Auberti<g ref="char:EOLhyphen"/>miraei <hi>Vita Juſti</hi> Lipſii.</note> Itinerarium Conſtantino<g ref="char:EOLhyphen"/>politanum
+<pb n="19" facs="tcp:57294:18"/>&amp; Amaſianum.</hi>
+                     </p>
+                     <p>
+                        <hi>Douza de Itinere Conſtantinopolitano.</hi>
+                     </p>
+                     <p>
+                        <hi>Furerii Itenerarium Aegypti, Arabiae,</hi> &amp;c.</p>
+                     <p>
+                        <hi>Antoninus</hi> his
+<note n="†" place="margin">
+                           <hi>Seu</hi> An<g ref="char:EOLhyphen"/>tonii, <hi>ſeu</hi> Antonini, <hi>ſeu</hi> Aethici, Itinerari<g ref="char:EOLhyphen"/>um Zeileri <hi>Hiſtorici, Chronologi, &amp;c. Geographi.</hi> Antonini <hi>Itinerarium ſive</hi> Ae<g ref="char:EOLhyphen"/>thici <hi>potius</hi> Voſſii <hi>not ae in Fragmentum</hi> Peripli Ponti Euxini.</note> Itinerary (if it be his) for both <hi>Thuanus</hi> and <hi>Voſſius De Hiſtori<g ref="char:EOLhyphen"/>cis Latinis, l.</hi> 3. <hi>c.</hi> 2. and others, ſeem to queſtion it, with Mr. <hi>Burtons Commen<g ref="char:EOLhyphen"/>tary.</hi>
+                     </p>
+                     <p>There are <hi>Les Fameux Voyages De Pietro De le Valle Surnomme Illuſtre Voyageur</hi> in three Quartoes. His Travels into <hi>Eaſt-India,</hi> and <hi>Arabia Deſerta,</hi> are Tranſlated into <hi>Engliſh</hi> by <hi>Havers,</hi> and ſo I think are the other in three Quar<g ref="char:EOLhyphen"/>toes.</p>
+                     <p>
+                        <hi>Voyage d'Orient du Philippe Carme Dechauſe Sieur de Loyer,</hi> his Relation <hi>de voyage de Levant De la Haie</hi> of the <hi>Levant,</hi> and alſo <hi>Blunts voyage</hi> into the <hi>Levant.</hi> Divers Voyages du <hi>P. Alexandre De Rhodes.</hi>
+                     </p>
+                     <p>
+                        <hi>Voyages</hi> du <hi>Seigneur</hi> de <hi>Villamont</hi> in three Books.</p>
+                     <pb n="20" facs="tcp:57294:19"/>
+                     <p>
+                        <hi>Voyage de la terre Sainte.</hi>
+                     </p>
+                     <p>
+                        <hi>Voyage</hi> du <hi>Duc</hi> de <hi>Rohan en Italie, Alemagne, Pays has uni, Angleterre &amp; Eſcoſſe.</hi>
+                     </p>
+                     <p>
+                        <hi>Jo. Hugenvans Linſchotens</hi> Diſcourſe of Voyages into the <hi>Eaſt</hi> and <hi>Weſt-Indies,</hi> whom Mr. <hi>Boyle</hi>
+                        <note n="*" place="margin">In his <hi>Sceptical Chymist.</hi>
+                        </note> ſtiles the ſober rela<g ref="char:EOLhyphen"/>ter of his Voyages.</p>
+                     <p>Sir <hi>Francis Drakes</hi> Voyages. <hi>Thuanus</hi> calls our
+<note n="*" place="margin">He was the next after <hi>Ma<g ref="char:EOLhyphen"/>gellanus,</hi> that ſailed round a<g ref="char:EOLhyphen"/>bout the World. See <hi>Camdens Britannia</hi> in <hi>Devonſhire.</hi>
+                        </note> 
+                        <hi>Drake, Celeberrimus univerſi orbis lustrator. Paulus Venetus</hi> hath writ<g ref="char:EOLhyphen"/>ten both an <hi>Itinerary,</hi> and three Books, <hi>de Religionibus Orientalibus.</hi>
+                     </p>
+                     <p>Some think him ſomewhat fabulous for what he reports of <hi>Quinſay.</hi>
+                        <note place="margin">
+                           <hi>Dolendum eſt Marci Pauli Ve<g ref="char:EOLhyphen"/>meti Itine<g ref="char:EOLhyphen"/>rari totum mendaciis ab impo<g ref="char:EOLhyphen"/>ſtore quodam contaminatum. Quis enim credit illa quae de Quinſai ſcribit, pontes in ea lapideos duodecim mille altiſſimos ſub nixos fornicibus fuiſſe ita ut <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ves erectis malis ea per<g ref="char:EOLhyphen"/>navigare potuerint.</hi> Hornius <hi>de Orig. Gent. Amerba.</hi> c. 3.</note> Dr. <hi>Heylin</hi> in his <hi>Coſmography</hi> in <hi>Madagaſ<g ref="char:EOLhyphen"/>car</hi> one of the <hi>Afracan Iſles,</hi> for what he relates of the Bird called <hi>Ruck,</hi> of ſuch
+<pb n="21" facs="tcp:57294:19"/>incredible ſtrength and bi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>neſs, that it could ſnatch up an Elephant, as eaſily as a Kite doth a Chicken.</p>
+                     <p>Mr. <hi>Burton</hi> in his <hi>Melancholy,</hi> part 2. Sect. 2. <hi>Member</hi> 3. <hi>p.</hi> 244. ſaith, <hi>I</hi> would cenſure all <hi>Plinies, Solinus, Strabo's, Sir John Mandevils, Olaus Magnus, Marcus Polus,</hi> lies.</p>
+                     <p>
+                        <hi>Apollo</hi> ſaid to the Author of the <hi>Chi<g ref="char:EOLhyphen"/>na Hiſtory,</hi> that he ſhould reduce the immenſe Metropolitan City of ſo many Kingdoms, inhabited by many millions of men to ſome credible meaſure; and particularly, that he ſhould bring the Palace of that King, which he had affirm<g ref="char:EOLhyphen"/>ed to be many miles long, to ſuch a form, as <hi>Vitruvius</hi> ſhould not laugh at him for it; ſaying, that if that building were ſo great as he had deſcribed it to be, the Halls muſt needs be half a mile long, and the Chambers little leſs; which if it were true, the whole Academy of Ar<g ref="char:EOLhyphen"/>chitects had reaſon to ſay, that to bring the meat but to the Table, the ſervants of ſo great a King muſt ride Poſt. <hi>Bocca<g ref="char:EOLhyphen"/>lini</hi> his <hi>Advertiſements</hi>
+                        <note n="*" place="margin">A very ingenuous piece much prized by Mr. <hi>Selden,</hi> and which coſt him his life.</note> from <hi>Per<g ref="char:EOLhyphen"/>naſſus. Century</hi> 2d. 16th. <hi>Advertiſement.</hi>
+                     </p>
+                     <pb n="22" facs="tcp:57294:20"/>
+                     <p>Yet Mr. <hi>Boyle</hi> in his experiments touching Cold, <hi>Title</hi> 19. ſaith of him, a writer not always half ſo fabulous as many think him, and <hi>Scickard</hi> in his <hi>Ta<g ref="char:EOLhyphen"/>rich. p.</hi> 185. ſaith, <hi>Marcus Polus Vene<g ref="char:EOLhyphen"/>tus, Minime vanus author, Cujus Nar<g ref="char:EOLhyphen"/>rata pridem incredibilia, quotidie magis magiſque verificantur.</hi>
+                     </p>
+                     <p>There is <hi>Relation du Voyage de Muſ<g ref="char:EOLhyphen"/>covie,
+<note place="margin">Mr. <hi>Ter<g ref="char:EOLhyphen"/>ries</hi> Voy<g ref="char:EOLhyphen"/>age into the <hi>Eaſt-Indies,</hi> and the Hiſto<g ref="char:EOLhyphen"/>ry of the <hi>Caribee</hi> Iſlands, which I have ſeen in <hi>French,</hi> and is tranſlated into <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> by <hi>J. Davis.</hi>
+                           </note> Tartarie &amp; de Perſe du Sieur Ole<g ref="char:EOLhyphen"/>arius Secretaire de Duc de Holſtein.</hi> Both the Author and Book are commended by <hi>Bochart</hi> in his late learned Treatiſe <hi>de A<g ref="char:EOLhyphen"/>nimalibus Scripturae.</hi> It is now tranſlated into Engliſh. Mr. <hi>Boyle</hi> ſtiles him the Applauded Writer <hi>Olearius.</hi> In his <hi>Ex<g ref="char:EOLhyphen"/>perimental Hiſtory of Colours, Experiment</hi> 9. He ſtiles him the Judicious <hi>Olearius,</hi> who was twice imployed as a publick Miniſter.</p>
+                     <p>There is the world ſurveighed, or <hi>Vincent le Blanck</hi>'s <hi>Travels;</hi> He ſpent fifty years making ten or twelve Voy<g ref="char:EOLhyphen"/>ages almoſt through all the parts of the World. Mr. <hi>Boyle</hi> calls him that Ram<g ref="char:EOLhyphen"/>bler about the world.</p>
+                     <pb n="23" facs="tcp:57294:20"/>
+                     <p>There are alſo <hi>Moryſons</hi> Travels, <hi>George Sandy</hi>'s Travels, and Sir <hi>Edwine Sandes</hi> his Relation of the State of Re<g ref="char:EOLhyphen"/>ligion in the Weſtern parts of the world, both very good.</p>
+                     <p>
+                        <hi>Biddulph</hi>'s Travels.</p>
+                     <p>
+                        <hi>Herbet</hi>'s Travels.</p>
+                     <p>
+                        <hi>Monſieur de Monfart</hi>'s Travels.</p>
+                     <p>The <hi>Preacher</hi>'s Travels.</p>
+                     <p>
+                        <hi>Coriat</hi>'s Crudities.</p>
+                     <p>
+                        <hi>Lithgow</hi>'s Travels.</p>
+                     <p>
+                        <hi>Ferdinand Mendez a Pinto</hi>'s Travels; who five times ſuffered Shipwrack, was ſixteen times ſold, and thirteen times made a ſlave, and ſpent one and twenty years in Travelling.</p>
+                     <p>Sir <hi>John Mandevil</hi>'s Travels.</p>
+                     <p>He Travelled thirty three, thirty four years, ſay ſome.</p>
+                     <p>He was in <hi>Scythia,</hi> the greater and leſs, <hi>Armenia, Egypt,</hi> both <hi>Lybia</hi>'s, <hi>Arabia, Syria, Media, Meſopotamia, Perſia, Chaldaea, Greece, Illyricum, Tartary,</hi> and divers other Kingdoms of the world.</p>
+                     <p>He committed his whole Travel of thirty three years to writing, in three di<g ref="char:EOLhyphen"/>vers Tongues, <hi>Engliſh, French</hi> and <hi>La<g ref="char:EOLhyphen"/>tine. Purchas</hi> his <hi>Pilgrimage. part</hi> 3. <hi>l.</hi> 3. <hi>c.</hi> 6. out of <hi>Baleus.</hi>
+                     </p>
+                     <pb n="24" facs="tcp:57294:21"/>
+                     <p>
+                        <hi>Joannes Mandevile, Non minimam Conſecutus eſt laudem deſcribendo regiones, vel opere de re medica.</hi> Voſſius <hi>'De</hi> Hiſt. <hi>Lat. l.</hi> 3. <hi>ca.</hi> 2.</p>
+                     <p>B.
+<note n="†" place="margin">De <hi>Bri<g ref="char:EOLhyphen"/>tannica<g ref="char:EOLhyphen"/>rum Ec<g ref="char:EOLhyphen"/>cleſiarum</hi> primordi<g ref="char:EOLhyphen"/>is <hi>c.</hi> 13.</note> 
+                        <hi>
+                           <g ref="char:V">Ʋ</g>ſher,</hi> ſpeaking of <hi>Cloughte Kil<g ref="char:EOLhyphen"/>ti in Cork,</hi> ſaith, <hi>In quo fundamenta con<g ref="char:EOLhyphen"/>ſpiciuntur ampliſſimae domus, quam no<g ref="char:EOLhyphen"/>bilis illius</hi> Johannes Magnavillani (<hi>ſive de</hi> Mandevile 34. <hi>annorum peregrinatione notiſſimi) fuiſſe tradunt accolae.</hi>
+                     </p>
+                     <p>
+                        <hi>Quibus relationibus olim fides nulla<g ref="char:EOLhyphen"/>tenus fuit adhibita,</hi> Spizelius <hi>de re itera<g ref="char:EOLhyphen"/>ria Sinenſium,</hi> ſect. 2.</p>
+                     <p>Yet Sir <hi>Walter Raleigh</hi> in his <hi>Hiſtory of the World,</hi> part 4. l. 4. c. 2. ſect. 21. and Dr. <hi>Heylin</hi> in his <hi>Coſmography</hi> (as he ſomewhat improperly
+<note n="*" place="margin">
+                           <hi>Non par<g ref="char:EOLhyphen"/>vum erro<g ref="char:EOLhyphen"/>rem Com<g ref="char:EOLhyphen"/>miſiſſe mihi videnturi, qui glo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>i terrae &amp; a<g ref="char:EOLhyphen"/>quae de<g ref="char:EOLhyphen"/>ſcriptio<g ref="char:EOLhyphen"/>nem, propium, particulareque Geographiae nomen habentem Communi, generalique nomine Coſmographiam appellant.</hi> Barocii <hi>Praefatio ad Coſmographiam.</hi>
+                        </note> ſtiles his great Folio) ſpeaking of <hi>India,</hi> p. 882. ſhew, how he was honoured abroad, and how many of his relations (though eſteemed fabulous by ſome) were ſince confirm<g ref="char:EOLhyphen"/>ed by the <hi>Portugals.</hi>
+                     </p>
+                     <pb n="25" facs="tcp:57294:21"/>
+                     <p>
+                        <hi>Daviti</hi> in his book entitled, <hi>Le Monde,</hi> Mentions <hi>Malherbe</hi> for a great Travel<g ref="char:EOLhyphen"/>ler, ſpending twenty ſeven years in di<g ref="char:EOLhyphen"/>vers Voyages almoſt through all the parts of the World.</p>
+                     <p>
+                        <hi>Purchas</hi> in his ſecond part of his <hi>Pil<g ref="char:EOLhyphen"/>grims, l.</hi> 10. <hi>c.</hi> 1. Speaks of <hi>Damian a Goes,</hi> a <hi>Portugal,</hi> who did ſee, ſpeak, and was converſant with all the Kings, Prin<g ref="char:EOLhyphen"/>ces, Nobles, and chief Cities of all Chri<g ref="char:EOLhyphen"/>ſtendome, in the ſpace of twenty two years.</p>
+                     <p>Mr. <hi>Greaves</hi> in his <hi>Pyramidographia,</hi> Mentions the Travels of <hi>Monſieur de Breves</hi> Embaſſador at <hi>Conſtantinople, les Voyages de Monſieur de Breves,</hi> which I have purchaſed from <hi>France.</hi>
+                     </p>
+                     <p>
+                        <hi>Alexandre de Rhodes,</hi> in the third part of his <hi>Voyages, ch.</hi> 13. Speaks of <hi>Monſieur de Boulaye,</hi> which hath pub<g ref="char:EOLhyphen"/>liſhed, <hi>
+                           <g ref="char:V">Ʋ</g>n tres beau liure de ſes voyages, ou il faut voir ec autant de fidelite,
+<note place="margin">
+                              <hi>Yanaquil<g ref="char:EOLhyphen"/>lus Faber</hi> in his notes on the ſixth book of <hi>Lucretius</hi> c. 1. ſaith, <hi>Lambertus Maſſilienſis,</hi> hath left a little Book, <hi>De Peregrinatione Aegyptiaca,</hi> print<g ref="char:EOLhyphen"/>ed at <hi>Paris,</hi> which he undertook 1626.</note> que de nettete d'eſprit, la, Conduite qu' il a monſtree ſans des Royaumes ſi differents.</hi>
+                     </p>
+                     <pb n="26" facs="tcp:57294:22"/>
+                     <p>He hath travelled over (ſaith he) the greateſt part of <hi>Europe, Aſia,</hi> and <hi>Afri<g ref="char:EOLhyphen"/>ca.</hi> I have ſeen that <hi>French</hi> Book alſo.</p>
+                     <p>There is <hi>Alex. Geraldini Itinerarium ad regiones ſub Aquinoctiali,</hi> in ſixteen Books.</p>
+                     <p>There are alſo Relations of Divers Curious Voyages by <hi>Monſieur Thevenot,</hi>
+                        <note place="margin">There are alſo the Repub<g ref="char:EOLhyphen"/>licks of ſeveral na<g ref="char:EOLhyphen"/>tions in little por<g ref="char:EOLhyphen"/>table books.</note> in three <hi>Tomes,</hi> and <hi>Relation Du voyage, de l'Eveque de Breyte, per la Turquie, la Perſe, les Indes, &amp;c. juſques au Royaume de Siam, &amp; autres lieux par</hi> M. <hi>de Bour<g ref="char:EOLhyphen"/>ges, Preſtre, &amp;c.</hi> Both mentioned in the Philoſophical Tranſactions. I have mu<g ref="char:EOLhyphen"/>ſtered up theſe ſeveral Itineraries and Voyages, both becauſe I have peruſed moſt, if not all of them, (except the two laſt) when I was about my great book of Geography, though it be not yet printed. And becauſe I ſuppoſe Travel<g ref="char:EOLhyphen"/>lers may hereby furniſh themſelves with the beſt writers of thoſe parts of the world, whether they intend to go, ei<g ref="char:EOLhyphen"/>ther to inſtruct them about thoſe places before they go, or to carry with them: Who ever ſince the beginning of things and men, hath been ſo often by royal imployment ſent Embaſſador to ſo many Princes ſo diſtant in place ſo different
+<pb n="27" facs="tcp:57294:22"/>in rites, as Sir <hi>Robert Sherlie!</hi>
+                        <note place="margin">There are the three <hi>Engliſh</hi> Brothers, and Sir <hi>Robert Sherley</hi> his Embaſſy into <hi>Po<g ref="char:EOLhyphen"/>land,</hi> both Printed. See <hi>Finets Obſervat. page</hi> 136, 137. 172, 173, 174, <hi>to</hi> 177.</note> Two <hi>Em<g ref="char:EOLhyphen"/>perours, Rodolph</hi> and <hi>Ferdinand,</hi> two <hi>Popes, Clement</hi> and <hi>Paul,</hi> twice the <hi>King</hi> of <hi>Spain,</hi> twice the <hi>Polonian,</hi> the <hi>Muſ<g ref="char:EOLhyphen"/>covite</hi> alſo, have given him Audience. And twice alſo (though not the leaſt for a born ſubject to be Embaſſador to his Soveraign) his Majeſty hath heard his Embaſſage from the remote <hi>Perſian. Pur<g ref="char:EOLhyphen"/>chas</hi> his <hi>Pilgrims,</hi> part 2. l. 10. c. 10.</p>
+                     <p>Dr. <hi>Nicholas Wotton</hi> (Uncle to Sir <hi>Henry Wotton</hi>) was Privy-Counceller to four ſucceſſive Soveraignes, Viz. King <hi>Henry</hi> the 8th. <hi>Edward</hi> the 6th. Queen <hi>Mary,</hi> Queen <hi>Elizabeth.</hi> He was nine times Embaſſadour for the Crown of <hi>England,</hi> to the Emperour, the Kings of <hi>France</hi> and <hi>Spain,</hi> and other Princes. <hi>Camdens Hiſt.</hi> of <hi>Q. Elizabeth.</hi>
+                     </p>
+                     <p>Some have inſtanced in ſeveral <hi>Engliſh</hi> Embaſſadours, how well they have ac<g ref="char:EOLhyphen"/>quitted themſelves; but I ſhall ſingle out one as very deſerving.
+<note place="margin">The Ap<g ref="char:EOLhyphen"/>pendix to the Hiſto<g ref="char:EOLhyphen"/>ry of Mr. <hi>Medes</hi> life.</note>
+                     </p>
+                     <p>Sir <hi>Thomas Rowe,</hi> after many Ambaſ<g ref="char:EOLhyphen"/>ſages to almoſt all the Princes, and States in Chriſtendome; (all which were man<g ref="char:EOLhyphen"/>aged
+<pb n="28" facs="tcp:57294:23"/>with admirable Dexterity, Succeſs and Satisfaction) was laſt of all Ambaſ<g ref="char:EOLhyphen"/>ſador Extraordinary to <hi>Ferdinand</hi> the third, <hi>Emperour of Germany;</hi> who gave him this Character, <hi>I have met with ma<g ref="char:EOLhyphen"/>ny Gallant Perſons of many Nations, but I ſcarce ever met with an Ambaſſador till</hi> now.</p>
+                     <p>Biſhop <hi>Bedell</hi> was Chaplain to Sir <hi>Henry Wotton</hi> at <hi>Venice.</hi> Dr. <hi>Featly,</hi> to Sir <hi>Thomas Edmonds</hi> in <hi>France.</hi> Dr. <hi>John Burgeſſe,</hi> to Sir <hi>Horatio Vere,</hi> in <hi>Germany.</hi>
+                     </p>
+                     <p>Mr. <hi>Boyle</hi> in his Preface to his Expe<g ref="char:EOLhyphen"/>riments, touching Cold, commends Captain <hi>James</hi> his Voyages, it being ſcarce, and not to be met with, in <hi>Purchas</hi>'s <hi>Tomes</hi> (having been written ſome years after they were finiſhed) and his Voy<g ref="char:EOLhyphen"/>ages publiſhed by the laſt Kings com<g ref="char:EOLhyphen"/>mand;
+<note place="margin">He ſtiles him in his Book, that Ingenuous Navigator</note> He being bred in the Univerſity, and acquainted with the Mathematicks.</p>
+                     <p>He commends alſo Mr. <hi>Ligon</hi> of the <hi>Barbado's,</hi>
+                        <note place="margin">Neither of theſe two have I ſeen.</note> and ſtiles him ingenious Mr. <hi>Ligon,</hi>
+                     </p>
+                     <p>But enough (if not too much) of this.</p>
+                     <p>Geographers, who write of the four parts of the Earth, are as large in <hi>Europe,</hi> as in the other three, <hi>Aſia, Africa,</hi> and <hi>America,</hi> To which one part, all learn<g ref="char:EOLhyphen"/>ing
+<pb n="29" facs="tcp:57294:23"/>ſeemeth now to be in a manner con<g ref="char:EOLhyphen"/>fined; which within this hundred, or two hundred years, hath produced ſo many able men of all profeſſions; Di<g ref="char:EOLhyphen"/>vines, Lawyers, Phyſicians, and Philo<g ref="char:EOLhyphen"/>ſophers; Papiſts and Proteſtants.</p>
+                     <p>
+                        <hi>Bolton</hi> in his <hi>Nero Caeſar.</hi> c. 29. ſect. 1. ſpeaking of ancient <hi>Rome,</hi> ſaith, The wonder of the feat did not grow from the greatneſs only, but from the innumera<g ref="char:EOLhyphen"/>ble ornaments of publick, and private works, erected for uſe, delight, and glo<g ref="char:EOLhyphen"/>ry, diſperſed over all the fourteen wards, or regions thereof. <hi>Temples, Forums, Li<g ref="char:EOLhyphen"/>braries, Therms, Aquaducts, Theaters, Amphitheaters, Circi, Porticus, Ar<g ref="char:EOLhyphen"/>ches, Columns, Statues, Palaces,</hi> and the reſt, whoſe bare names ſcarce remain<g ref="char:EOLhyphen"/>ing, do fill up Volums with their invento<g ref="char:EOLhyphen"/>ries.</p>
+                     <p>The beſt Circuit a Traveller can take, is to go through <hi>Holland</hi> towards <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> thereby to ſatisfie his curioſity by degrees, for <hi>Germany</hi> will afford more ſatisfaction than the <hi>Low-Countries; France</hi> more then <hi>Germany, Italy</hi> more then <hi>France,</hi> Gerbiers <hi>ſubſidium Pere<g ref="char:EOLhyphen"/>grinantibus.</hi>
+                     </p>
+                     <pb n="30" facs="tcp:57294:24"/>
+                     <p>
+                        <hi>Paris, Rome,</hi> and <hi>Conſtantinople,</hi> are the Court of the World; <hi>Venice Gene<g ref="char:EOLhyphen"/>va,</hi> and <hi>Lisbon,</hi> the City; <hi>Provence, An<g ref="char:EOLhyphen"/>daluzia,</hi> and <hi>Italy</hi> the Garden, <hi>Africk,</hi> and <hi>America,</hi> the Deſart and Wilder<g ref="char:EOLhyphen"/>neſs.</p>
+                     <p>
+                        <hi>Flecknoes</hi> Relation of twenty years Travels, Letter 22.</p>
+                     <p>
+                        <hi>Johnſon</hi> in his Relation of the moſt famous Kingdoms. <hi>l.</hi> 1. of Travel, ad<g ref="char:EOLhyphen"/>viſeth a Traveller to take heed of the Pride of <hi>Spain,</hi>
+                        <note place="margin">Dr. <hi>Hall</hi> thinks <hi>Ita<g ref="char:EOLhyphen"/>ly</hi> a dange<g ref="char:EOLhyphen"/>rous place for Youth. <hi>
+                              <g ref="char:V">Ʋ</g>rſin,</hi> in a Gratulatory Epiſtle to a friend returned out of <hi>Italy,</hi> addes, <hi>Ex cloaca diabolorum. Neceſſe est peregri<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>aturam habere duos ſaccos, patientiae unum, pecuniae alte<g ref="char:EOLhyphen"/>rum. Commenii Praxis</hi> Senicae <hi>par.</hi> 5. <hi>Actus</hi> 4. <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e<g ref="char:EOLhyphen"/>na.</hi> 1.</note> the Poyſon of <hi>Italy,</hi> the Treaſon of <hi>France,</hi> and the drink of <hi>Flanders.</hi>
+                     </p>
+                     <p>Thoſe who have a deſire to travel to <hi>Jeruſalem</hi> ſhould take heed to themſelves; that they make no Shipwrack of Con<g ref="char:EOLhyphen"/>ſcience, for if they come not well com<g ref="char:EOLhyphen"/>mended, or well monyed, or both, there is no being for them, except they par<g ref="char:EOLhyphen"/>take with them in their Idolatrous Ser<g ref="char:EOLhyphen"/>vices. <hi>Purchas</hi> his <hi>Pilgrimage,</hi> part 2. l. 8. ch. 9.</p>
+                     <pb n="31" facs="tcp:57294:24"/>
+                     <p>
+                        <hi>Lud. Bartema</hi> Relates, that they that Travel over the <hi>Deſarts</hi> of <hi>Arabia,</hi> which are all covered with light and fleeting Sands, ſo that no Track can ever be found, do make certain boxes of wood, which they place on Camels backs, and ſhut themſelves in them, to keep them from the Sands, and by the help of the Load-ſtone, like the Marriners Compaſs, they ſteer their Courſe over the vaſt and uncouth Deſarts.</p>
+                     <p>The <hi>Latine,</hi> the <hi>French,</hi> the <hi>Sclavo<g ref="char:EOLhyphen"/>nick,</hi> and the <hi>Arabian</hi> Tongue, are known in many places, For <hi>Africa; Leo</hi>
+                        <note n="*" place="margin">
+                           <hi>Leo Af<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> in rebus Africanis fere inſtar omnium eſſe poteſt Hoſmanni mantica. Leo Afri<g ref="char:EOLhyphen"/>canus</hi> A man of no ſmall cre<g ref="char:EOLhyphen"/>dit among them who are well verſed in the Hiſtory of the World. Dr. <hi>Caſaubon</hi> of <hi>Credulity</hi> and <hi>Incredulity part.</hi> 1. Some ſay <hi>Golnitz</hi> is the beſt <hi>Itinerary</hi> for <hi>France, &amp; le Voiageur Irancois, Jodocus Sincerus</hi> his <hi>Itinerarium Gallia</hi> is well liked.</note> is the beſt, for the <hi>Levant; Blunt</hi> is a good book to take with thee thither, and ſome others <hi>I</hi> have before-named; for <hi>Italie, Scotti &amp; Capugnani Itinerarium Italiae, &amp; Raimunds Mercurio Italico,</hi> will be uſeful; for <hi>France, Dallingtons View of France,</hi> and Mr. <hi>Evelins</hi> little book, for the Polity or Government; for <hi>Holland, Colnitzius,</hi> for <hi>Germany Zeiler.</hi>
+                     </p>
+                     <pb n="32" facs="tcp:57294:25"/>
+                     <p>Sir <hi>Benjamin Ruddierd</hi> (whoſe diſ<g ref="char:EOLhyphen"/>courſe and ſpeeches were full of Apo<g ref="char:EOLhyphen"/>thegmes) was wont to ſay, <hi>France</hi> was a good Country to ride through,
+<note place="margin">Let <hi>Italy</hi> glory in this, that it is for pleaſure the Gar<g ref="char:EOLhyphen"/>den of the World. It may be truly ſaid of great <hi>Britain,</hi> that it is the Court, and preſence Chamber of the great King, <hi>Eſa.</hi> 8.8. <hi>Ezek.</hi> 48.35. Surely few parts of all the Earth are like <hi>England,</hi> for the Showers of Heaven, and the Riches of the precious Ordinances of God. Mr. <hi>Baxters Direct.</hi> to the Conver<g ref="char:EOLhyphen"/>ted, for their Eſtabliſhment.</note> 
+                        <hi>Italy</hi> a good Country to look upon, <hi>Spain</hi> a good Country to underſtand, but <hi>England</hi> a good Country to live in.</p>
+                     <p>So wiſhing the Traveller a proſpe<g ref="char:EOLhyphen"/>rous Voyage, There caſt Anchor.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:57294:25"/>
+                  <p>A Diatribe OF MONY OR COYN.</p>
+                  <p>Printed in the Year, MDCLXXI.</p>
+               </div>
+            </front>
+            <body>
+               <div type="diatribe">
+                  <pb facs="tcp:57294:26"/>
+                  <pb n="35" facs="tcp:57294:26"/>
+                  <head>A DIATRIBE OF MONY Or COYN.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">C</seg>Oyn</hi> ſeemeth to come from the <hi>French, Coin,</hi> a <hi>Corner;</hi> becauſe the ancienteſt ſort of <hi>Coyn,</hi> was cornered and not round.</p>
+                  <div type="part">
+                     <head>Cowells Intepreter.</head>
+                     <p>Coyning of Money is a ſpecial right
+<pb n="36" facs="tcp:57294:27"/>and Prerogative of Soveraigne
+<note n="*" place="margin">
+                           <hi>Freherus</hi> in his <hi>Dia<g ref="char:EOLhyphen"/>tribe</hi> or <hi>Expoſition</hi> of <hi>Con<g ref="char:EOLhyphen"/>ſtantines</hi> Silver Coyn, ſaith, the Roman Princes, <hi>in cunen<g ref="char:EOLhyphen"/>da moneta non minimam majeſtatis ſuae partem poſuerunt,</hi> and that <hi>Conſtantine</hi> the <hi>Emperour</hi> firſt ingraved the <hi>Croſſe</hi> upon his Coyn, which his ſucceſſors after obſerved, as we may ſee among Antiquaries.</note> Majeſty, Mony is as the ſinews and ſtrength of a ſtate, ſo the life and ſoul of Commerce.</p>
+                     <p>Mony, Commonly is the mean for all Commodities, and anſwereth to all, <hi>Ec<g ref="char:EOLhyphen"/>cleſ.</hi> 10.19. Yet the <hi>Spaniards</hi> Com<g ref="char:EOLhyphen"/>ing into the <hi>Weſt-Indies,</hi> had many Com<g ref="char:EOLhyphen"/>modities of the Country which they needed, brought unto them by the In<g ref="char:EOLhyphen"/>habitants; to whom, when they offered them Money, goodly pieces of Gold Coyn, the <hi>Indians</hi> taking the Mony, would put it into their Mouths, and ſpit it out to the <hi>Spaniards</hi> again, ſignifying, that they could not eat it, or make uſe of it; and therefore would not part with their Commodities for Money, unleſs they had ſuch other Commodities as would ſerve their uſe.</p>
+                     <p>That Money hath been anciently uſed in a way of Commerce, we may ſee <hi>Gen.</hi> 33.19. And the moſt ancient was the
+<pb n="37" facs="tcp:57294:27"/>pureſt Gold. Medals are certain pieces of Money diſperſed at the Coronation of Kings. They call them commonly <hi>Me<g ref="char:EOLhyphen"/>dallias,</hi> in the Italian, Spaniſh, and French Languages, (ſaith <hi>Antoninus Auguſtinus, De veterum numiſmatum Antiquitate</hi>) from the Latine word <hi>Metalla,</hi> ſince thoſe three Languages had their Original from the Latine.</p>
+                     <p>
+                        <hi>Pope Gregory</hi> the 13th after he had received tidings in the Conſiſtory of the <hi>Maſſacres</hi> in <hi>France,</hi>
+                        <note place="margin">So in <hi>France,</hi> Medals were made in remem<g ref="char:EOLhyphen"/>brance of the Maſſa<g ref="char:EOLhyphen"/>cres, the Image of <hi>Charles</hi> the ninth, ſit<g ref="char:EOLhyphen"/>ing in his royal Throne, and in one ſide, <hi>Virtus in Rebelles,</hi> and on the re<g ref="char:EOLhyphen"/>verſe of it, the Arms of <hi>France, &amp; Pietas excitavit Juſti<g ref="char:EOLhyphen"/>tiam Horae ſubceſivae.</hi> On ſome of <hi>Veſpatians</hi> Coyn, the State of <hi>Judea</hi> is Deciphered, in form of a Captive Wo<g ref="char:EOLhyphen"/>man, with a ruefull Aſpect, ſitting under a Palm-Tree.</note> one thouſand five hundred and ſeventy two, went to the Church that night to give thanks, made <hi>Bonfires,</hi> and gloried in the bloody feats of thoſe <hi>Emiſſaries,</hi> having a <hi>Coyn</hi> with his <hi>own Face</hi> on one ſide, and an <hi>Angel</hi> on the other; with a <hi>Croſs</hi> in one hand, and a <hi>Sword</hi> in the other, with this Motto, <hi>Hugonothorum Strages.</hi>
+                     </p>
+                     <pb n="38" facs="tcp:57294:28"/>
+                     <p>
+                        <hi>Lewis</hi> the 12th of <hi>France,</hi> a moderate Prince, when his Realm was interdicted by <hi>Pope Julius</hi> the ſecond, cauſed Coyn to be ſtamped with his own image,
+<note place="margin">Id. Ibid.</note> with this ſuperſcription,
+<note place="margin">See the <hi>Expoſitors</hi> on <hi>Act.</hi> 19.24.</note> 
+                        <hi>Perdam Nomen Ba<g ref="char:EOLhyphen"/>bylonis.</hi>
+                     </p>
+                     <p>In <hi>Athens</hi> the Tower excelled,
+<note place="margin">Mr. <hi>Selden</hi> before the <hi>Engliſh</hi> Hiſtorians Printed by Mr. <hi>Bee,</hi> Citeth, <hi>Ludovicus Paruta his Originale de.</hi> Yet Mr. <hi>Selden</hi> in h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s notes on <hi>Eadmerus,</hi> ſaith, <hi>Caeterum ad vetuſtum Archie<g ref="char:EOLhyphen"/>piſcoparum in</hi> Cantuaria <hi>jus ſpectat etiam forſan priſcu<g ref="char:EOLhyphen"/>numiſma cujus pars altra</hi> Plegmundi <hi>Archiepiſcopi, alte<g ref="char:EOLhyphen"/>ra</hi> Eicmundi <hi>cuſoris nomine ſignata eſt vide plura</hi> Ibid.</note> in which there was a Temple to <hi>Minerva. Juleus Pollux</hi> writes, that the <hi>Attick te<g ref="char:EOLhyphen"/>tradrachme</hi> was ſtamped with the face of <hi>Minerva,</hi> and he might have added with the <hi>Noctua</hi> on the reverſe. Mr. <hi>Greaves</hi> of the <hi>Denarius. Hugh Broughton</hi> ſaid, it was portended by his Arms, that he ſhould be a <hi>Grecian,</hi> for he gave the houſe <hi>Athens.</hi>
+                     </p>
+                     <p>There is a Medal in <hi>Oxford</hi> made upon the ſinking of the Spaniſh ſhips in 88.
+<note place="margin">
+                           <hi>Goltzius</hi> is the moſt copious &amp; beſt writer about Medals.</note> with a Navy on one ſide and a Rock on the other. See <hi>Cambdens Annals.</hi>
+                     </p>
+                     <pb n="39" facs="tcp:57294:28"/>
+                     <p>The <hi>Lydians</hi> firſt invented Gold and Silver Money, <hi>Janus</hi> Braſs Money.</p>
+                     <p>
+                        <hi>Gutherius</hi>
+                        <note n="*" place="margin">
+                           <hi>De Offi<g ref="char:EOLhyphen"/>cio Domus Auguſtae.</hi> l. 3. c. 1. <hi>Bonitas Monetae eſt intriuſeca vel extrin<g ref="char:EOLhyphen"/>ſeca. In<g ref="char:EOLhyphen"/>trinſeca conſiſtit in precioſitate materiae &amp; in pondere. Extrinſeca bo<g ref="char:EOLhyphen"/>nitas conſiſtit in aestimatione publica vel voluntariam Contrahentium. Angelocrator De Monetas</hi> c. 2.</note> out of <hi>Iſidore,</hi> ſaith three things are required in Money; the Metal, the Figure, and the Weight; <hi>Gold</hi> is the moſt excellent of all Metals, ſaith <hi>Georgi<g ref="char:EOLhyphen"/>us Agricola.</hi> Gold hath <hi>Greatneſs of Weight, Cloſeneſs of Parts, Fixation, Pliantneſs,</hi> or <hi>Softneſs, Immunity</hi> from <hi>Ruſt, Colour</hi> or <hi>Tincture</hi> of <hi>Yellow.</hi>
+                     </p>
+                     <p>Sir <hi>Francis Bacon</hi>'s <hi>Natural Hiſtory,</hi> Centuary 4. Experiment 328.</p>
+                     <p>
+                        <hi>Martiall</hi> calls Gold, Yellow Mony.
+<note place="margin">The pure<g ref="char:EOLhyphen"/>neſs and fineneſs of the Coyns, and the weight for the intrin<g ref="char:EOLhyphen"/>ſick, and the outward form or Character, and inſcription of the Prince or State for the Extrinſick of Coyns, is obſerved by know<g ref="char:EOLhyphen"/>ing bankers. Mr <hi>Greaves</hi> of the <hi>Denarius.</hi>
+                        </note> 
+                        <hi>Has niſi de flaxa loculos implere moneta. Non decet, argentum vilia ligna ferant.</hi> Silver is next to it, it is not conſumed in the fire. It is more ductile than any other metal except Gold. Its white co<g ref="char:EOLhyphen"/>lour is delightful.</p>
+                     <pb n="40" facs="tcp:57294:29" rendition="simple:additions"/>
+                     <p>Yet <hi>Budaeus De Contemptu Rerum Fortuitorum l.</hi> 3. ſaith well, <hi>At <g ref="char:V">Ʋ</g>ſu ſubla<g ref="char:EOLhyphen"/>to quid tandem aurum &amp; argentum aliis praestat metallis,</hi>
+                     </p>
+                     <p>Diligent inquiring into Coyns,
+<note place="margin">Felix <hi>ſine diphthon<g ref="char:EOLhyphen"/>go. Con<g ref="char:EOLhyphen"/>ſenſus li<g ref="char:EOLhyphen"/>brorum &amp; nummo<g ref="char:EOLhyphen"/>rum.</hi> Fe<g ref="char:EOLhyphen"/>cundus <hi>ſine diphthongo? Eadem monum enta antiqua</hi> Dilher<g ref="char:EOLhyphen"/>ri Apparatus Philologiae. <hi>Vide</hi> Voſſii Etymologicon Lin<g ref="char:EOLhyphen"/>guae Latinae, <hi>Melius ſcribitur hoc nomen cum aſpiratione</hi> Ha<g ref="char:EOLhyphen"/>drianus, <hi>nam ita nummi &amp; lapides Conſtanter.</hi> Caſaub. <hi>notae in</hi> Aelii Spartiani Hadrianum: <hi>Scilicet ex ſtatuis numis atibuſque cognoſcere licet qualis fuerit vultus ha<g ref="char:EOLhyphen"/>bituſque clarorum virorum faeminarumque illuſtrium, quorum nos actiones auditae delectant; qua forma fuerint Dii de aeque, &amp; Heroes priſci cum ſuis illis inſignibus; Cujuſmodi fuerint ſive ornamenta, ſive inſtrumenta religio<g ref="char:EOLhyphen"/>num, bellornm, magiſtratuum, Coronae, Curras, trium<g ref="char:EOLhyphen"/>phi, ſed ilia inumeraquc id genus alia. Vide</hi> Gaſſendii <hi>vitam</hi> Leireskii <hi>l.</hi> 6. <hi>p.</hi> 552, 553.</note> is one great piece of antiquity; by the know<g ref="char:EOLhyphen"/>ledge of which (as other ways) we may come to underſtand the right wri<g ref="char:EOLhyphen"/>ting of ſeveral words.</p>
+                     <p>
+                        <hi>Heliogabalus,</hi> or <hi>Algebalus</hi> rather, as he was ſtiled of old, as <hi>Egnatius (Notis ad Caeſares)</hi> proves out of ſome old Coyns.</p>
+                     <p>
+                        <hi>Leonardus Aretinus,</hi> in the fourth Book of his Epiſtles, deſcribing his journy from
+<pb n="41" facs="tcp:57294:29"/>
+                        <hi>Rome</hi> to <hi>Conſtance,</hi> ſaith, when he en<g ref="char:EOLhyphen"/>quired of ſome Citizens there, of the an<g ref="char:EOLhyphen"/>tiquity and original of <hi>Conſtance, nemo adhuc mihi occurrit, qui vel avi ſui nomen &amp; memoriam ne dum urbi tenere vide<g ref="char:EOLhyphen"/>retur.</hi> Yet by diligent ſearching, he found a Marble Table Containing ancient let<g ref="char:EOLhyphen"/>ters, by which it appears, that this Ci<g ref="char:EOLhyphen"/>ty took its name from <hi>Conſtantius</hi> the Father of <hi>Conſtantine,</hi> being called <hi>Vi<g ref="char:EOLhyphen"/>tudura.</hi>
+                     </p>
+                     <p>There is much learned pleaſure in the Contemplation of the ſeveral figures ſtamped on each ſide of theſe Attique Coyns. Would you ſee the true and un<g ref="char:EOLhyphen"/>doubted models of their <hi>Temples, Altars, Deities, Columns, Gates, Arches, A<g ref="char:EOLhyphen"/>quaeducts, Bridges, Sacrifices, Veſſels, Sellae Curules, Enſignes</hi> and <hi>Standards, Naval</hi> and <hi>Mural Crowns, Amphithea<g ref="char:EOLhyphen"/>ters, Circi, Bathes, Chariots, Tro<g ref="char:EOLhyphen"/>phies, Ancilia,</hi> and a thouſand things more. Repair to the old Coyns and you ſhall find them. <hi>Peachams Compleat Gentleman,</hi> ch. 12.</p>
+                     <p>There is a twofold Inſcription of Coyns, <hi>obverſa</hi> and <hi>averſa.</hi>
+                     </p>
+                     <p>
+                        <hi>Vide Seldenum De Jure Naturali.</hi> l. 6, c. 17.</p>
+                     <pb n="42" facs="tcp:57294:30"/>
+                     <p>I have heard of ſome men,
+<note place="margin">Dr. <hi>Ca<g ref="char:EOLhyphen"/>ſaubone</hi> of <hi>Credulity</hi> and <hi>Incre<g ref="char:EOLhyphen"/>dulity</hi> in things Na<g ref="char:EOLhyphen"/>tural, Ci<g ref="char:EOLhyphen"/>vil and Di<g ref="char:EOLhyphen"/>vine <hi>part</hi> 2</note> (but heard it onely) who by the bare handling and ſmelling, would judge better of old Coyns (which is a great trade beyond the Seas, and concerning which, many Books are written) than others, not al<g ref="char:EOLhyphen"/>together ſtrangers unto them, could by the ſight.</p>
+                     <p>The general names for Money among the <hi>Romans</hi> are three,
+<note place="margin">
+                           <hi>Apud</hi> Ro<g ref="char:EOLhyphen"/>manos <hi>quidem res nummaria tria habet generalia vocabula, quibus nominatur, Moneta, Pecunia, Nummus.</hi> Georg. Agricola <hi>De Veteribus &amp; Novis Metal<g ref="char:EOLhyphen"/>lis.</hi> l. 1.</note> 
+                        <hi>Moneta, Numus, Pecunia.</hi>
+                     </p>
+                     <p>Firſt, <hi>Moneta</hi> (whence the <hi>French Monnoye</hi>) <hi>à Monendo,</hi> becauſe it ſheweth us the Author, the Value and the time.</p>
+                     <p>
+                        <hi>Numiſma, quaſi Nomiſma à nomini<g ref="char:EOLhyphen"/>bus ſcilicet &amp; effigiebus principum quae ei imprimebantur,</hi> Iſidorus <hi>dici putat.</hi> Wa<g ref="char:EOLhyphen"/>ſerus <hi>De</hi> Antiquis Numis Hebraeorum, Chaldaeorum <hi>&amp;</hi> Syrorum <hi>c.</hi> 11.</p>
+                     <p>Secondly, <hi>Numus,</hi> or <hi>Nummus</hi> ra<g ref="char:EOLhyphen"/>ther, ſaith <hi>Voſſius,</hi> a <hi>Numa,</hi> ſaith <hi>An<g ref="char:EOLhyphen"/>gelo Cretor,</hi> it hath rather a Greek Ori<g ref="char:EOLhyphen"/>ginal,
+<gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> from the Law, becauſe
+<pb n="43" facs="tcp:57294:30"/>it is a Legitimate and publick price. <hi>No<g ref="char:EOLhyphen"/>miſma</hi> and <hi>Numus</hi> (ſaith <hi>Martinius</hi>) ſeem to be of the ſame Original.</p>
+                     <p>Thirdly, <hi>Pecunia,</hi> either from the Images of
+<note n="*" place="margin">
+                           <hi>Pecuni<g ref="char:EOLhyphen"/>am à pe<g ref="char:EOLhyphen"/>cum di<g ref="char:EOLhyphen"/>ctam eſſe conſtat, ſed quae ſit cauſa originis parum convenit inter auctores.</hi> Voſſii Etymologicum <hi>Linguae Latinae.</hi>
+                        </note> Cattel ſtamped upon it, or from their skin out of which mony was Coyned.</p>
+                     <p>
+                        <hi>Gen.</hi> 33.19. <hi>For an hundred pieces of money,</hi> the <hi>Greek</hi> and <hi>Chaldee</hi> tranſlate it, a hundred Lambs. Others think they were <hi>pieces of money,</hi> on which the ima<g ref="char:EOLhyphen"/>ges of Lambs were ſtamped. So in <hi>Joſ.</hi> 24.32. <hi>Job</hi> 42.11. <hi>Ainſworth, Vide Me<g ref="char:EOLhyphen"/>neru in loc. &amp; Brerewood De Ponderibus, &amp;c.</hi>
+                     </p>
+                     <p>The Mony currant in <hi>Attica</hi> was com<g ref="char:EOLhyphen"/>monly ſtamped with an Oxe, whence came the By-word. <hi>Bos in Lingua,</hi>
+                        <note place="margin">Dr. <hi>Hey<g ref="char:EOLhyphen"/>lins Coſm.</hi> in <hi>Greece. p.</hi> 5 88.</note> ap<g ref="char:EOLhyphen"/>plied to ſuch Lawyers as were bribed to ſay nothing in their Clients cauſe, not much unlike to which was the Proverb riſing from the Coyn of <hi>Aegina,</hi> (an Iſle adjoyning) ſtamped with the figure of a <hi>Snail, viz. Virtutem &amp; ſapientiam vin<g ref="char:EOLhyphen"/>cant. Teſtudines.</hi>
+                     </p>
+                     <pb n="44" facs="tcp:57294:31"/>
+                     <p>The Names of the Braſs Money among the <hi>Romans</hi> were,
+<list>
+                           <item>
+                              <hi>As</hi>
+                           </item>
+                           <item>
+                              <hi>Quadrans</hi>
+                           </item>
+                           <item>
+                              <hi>Sextans</hi>
+                           </item>
+                           <item>
+                              <hi>Triens</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>Of the Silver.</p>
+                     <list>
+                        <item>
+                           <hi>Denarius</hi>
+                        </item>
+                        <item>
+                           <hi>Quinarius</hi>
+                        </item>
+                        <item>
+                           <hi>Seſtertius.</hi>
+                        </item>
+                     </list>
+                     <p>Of the Gold.</p>
+                     <p>
+                        <hi>Aureus
+<note n="*" place="margin">
+                              <hi>
+                                 <g ref="char:V">Ʋ</g>t au<g ref="char:EOLhyphen"/>reus vi<g ref="char:EOLhyphen"/>ginti quinque denarias complectebatur, ita totidem annos</hi> Aureum vitae <hi>appellabant Mearſi mantiſſa ad Luxum Romanum.</hi> c. 19.</note> ſive Solidus,</hi> it was valued with the <hi>Romans</hi> at 25 <hi>Denaries.</hi>
+                     </p>
+                     <p>
+                        <hi>As</hi> or <hi>aſſis,</hi> is a little piece of mony, whoſe baſeneſs grew into a Proverb. <hi>Omnes unius aeſtimemus aſſis,</hi>
+                     </p>
+                     <p>
+                        <hi>Aes</hi> is alſo uſed for Money, becauſe the firſt Money amongſt the <hi>Romans</hi> was made of Braſs, whence <hi>aerarium</hi> alſo for
+<pb n="45" facs="tcp:57294:31"/>a Treaſury. <hi>Tam aeris quam argenti no<g ref="char:EOLhyphen"/>minibus in ſermone latino pecunia indica<g ref="char:EOLhyphen"/>tur.</hi> Camerarius.</p>
+                     <p>
+                        <hi>Servius Tullius</hi> Firſt Coyned Money at <hi>Rome,</hi> as <hi>Pliny</hi> witneſſeth, <hi>l.</hi> 33. <hi>c.</hi> 3. This was of <hi>Braſs.</hi>
+                        <note place="margin">
+                           <hi>Romani primum uſi fue<g ref="char:EOLhyphen"/>runt qua druplici Moneta, ne mpe,</hi> Plumbea, Aerea, Ar<g ref="char:EOLhyphen"/>gentea, Aurea. <hi>Plumbeae uſus quando coeperit, in<g ref="char:EOLhyphen"/>certum. Aes initio habuerunt rude, pon<g ref="char:EOLhyphen"/>dere di<g ref="char:EOLhyphen"/>ſtinctum, non nota</hi> Lipſius <hi>quaſi forma &amp; exemplum, ad quos nummos alios omnes ex<g ref="char:EOLhyphen"/>penderent.</hi> Serarius <hi>in</hi> Joſh. <hi>c.</hi> 7. Quaeſt. 5.</note> They uſed this till the 5th year before the firſt Punick war. Then <hi>Silver</hi> Money was firſt Coyned, which is called <hi>Denarius, quia valeret decem li<g ref="char:EOLhyphen"/>bras aeris.</hi> The <hi>Golden</hi> Money was Coyn'd at <hi>Rome,</hi> forty two years after the Silver Money was uſed, as <hi>Pliny</hi> ſhews in the place before-named, 62. ſaith <hi>Lipſius.</hi> The price and eſteem of Gold was different among the <hi>Greci<g ref="char:EOLhyphen"/>ans</hi> and <hi>Romans,</hi> among the <hi>Grecians</hi> Golden Money was changed for ten of Silver, among the <hi>Romans</hi> for twelve and a half; often it was much more e<g ref="char:EOLhyphen"/>ſteemed. <hi>Voſſius De Philiologia Chriſti<g ref="char:EOLhyphen"/>aniae.</hi> l. 6. c, 35. <hi>Meurſius</hi> hath put out <hi>Denarius Pythagoricus opuſculum pereru<g ref="char:EOLhyphen"/>ditum, ac mihi eo gratius quod inſcripſe<g ref="char:EOLhyphen"/>rit nomini nostro</hi> Voſſius, <hi>ibid.</hi> l. 8. c. 3.</p>
+                     <pb n="46" facs="tcp:57294:32"/>
+                     <p>Amongſt the ancient Hebrews Chal<g ref="char:EOLhyphen"/>deans and Syrians,
+<note place="margin">
+                           <hi>Waſerus de Antiquis Numis He<g ref="char:EOLhyphen"/>braeorum l.</hi> 2. c. 2.</note> the moſt uſual money was the <hi>Siclus</hi> or <hi>Shekel,</hi> among the La<g ref="char:EOLhyphen"/>tines the cheif and uſual kinds of Silver money were <hi>Denarius</hi> and
+<note n="†" place="margin">
+                           <hi>Scrive<g ref="char:EOLhyphen"/>rius</hi> on <hi>Martiall</hi> addes <hi>Victoria<g ref="char:EOLhyphen"/>tus Conſentiunt omnes</hi> Sicli <hi>nomen eſſe prorſus ab Hebraeo</hi>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> Shekel, <hi>hoc vero eſſe à verbo</hi>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> Shakal <hi>quod ap<g ref="char:EOLhyphen"/>penderare ſignificat, partim quia, ut in multis hodie locis pon<g ref="char:EOLhyphen"/>derari enim ſolebat argentea moneta, partim, quia apud Hebr aeos hoc nummi genus, erat.</hi>
+                        </note> 
+                        <hi>Seſtertius,</hi> among the Grecians, <hi>Drachma, Mina, Talentum.</hi>
+                     </p>
+                     <p>A <hi>Shekel</hi> (coming from <hi>Shakal,</hi> he weighed, from whence our Engliſh <hi>Skole</hi> and <hi>Skale</hi> to weigh with, is derived) is by interpretation a <hi>weight,</hi> as being the moſt common in payments, in which they uſed to weigh their money, <hi>Gen.</hi> 23.16. <hi>Jer.</hi> 32.9. The Chaldee calleth a Shekel <hi>Silgna,</hi> and <hi>Selang</hi> (from whence our Engliſh ſhilling ſeemeth to be bor<g ref="char:EOLhyphen"/>rowed) and the quantity of the common ſhekel differd not much from our ſhilling, as the ſhekel of the Sanctuary was about two ſhillings., <hi>Anſw.</hi> on <hi>Gen.</hi> 20.16. See him on <hi>Exod.</hi> 33.13.</p>
+                     <pb n="47" facs="tcp:57294:32"/>
+                     <p>A ſhekel is about the weight of an Engliſh half Crown,
+<note place="margin">
+                           <hi>Nehem.</hi> 5.14, 15. <hi>Forty ſhe<g ref="char:EOLhyphen"/>kels of Silver,</hi> that is, five pounds ſterling; a ſhekel is half an ounce, which makes 2 <hi>s.</hi> 6 <hi>d.</hi>
+                        </note> 
+                        <hi>Valet pro inde She<g ref="char:EOLhyphen"/>kel de noſtro.</hi> 2 s. 6 d. <hi>Brerewood de Ponde<g ref="char:EOLhyphen"/>ribus &amp; Pretiis veterum nummorum.</hi> c. 1.</p>
+                     <p>
+                        <hi>Exod.</hi> 30.13.
+<note place="margin">Mr. <hi>Jack<g ref="char:EOLhyphen"/>ſon</hi> on that place.</note> The Gerah is held to have been about a penny half penny, and by that eſtimate, the ſhekel was two ſhillings ſix pence, and half the ſhekel fifteen pence.</p>
+                     <p>It is the ancienteſt of all the monies the Scripture mentions,
+<note place="margin">Ar. Mon<g ref="char:EOLhyphen"/>tanus, De Menſuris Sacris.</note> the weight of it is almoſt four Spaniſh Reals, or four Roman Julii,</p>
+                     <p>A Roman Julio
+<note n="†" place="margin">
+                           <hi>In Italia Romana Scor<g ref="char:EOLhyphen"/>ta in ſin<g ref="char:EOLhyphen"/>gulas aeb<g ref="char:EOLhyphen"/>domadas Julium pendent Pontifici, qui cenſus annuus nonnunquam viginti milia ducato excedet.</hi> Cornelius Agrippa <hi>De vaenita. Scient.</hi>
+                        </note> or; a Spaniſh Royal, is about 7 pence Engliſh, a piece of eight called ſo, becauſe equal to eight Royals is about 4 <hi>s.</hi> 6 <hi>d.</hi> Engliſh, ſo that <hi>Ainſ<g ref="char:EOLhyphen"/>worth</hi> ſeems to be miſtaken.</p>
+                     <pb n="48" facs="tcp:57294:33"/>
+                     <p>
+                        <hi>Graeci pecuniarum ſummas num era<g ref="char:EOLhyphen"/>bant drachmis, ut</hi> Judaea <hi>ſiclis, &amp; Ro<g ref="char:EOLhyphen"/>mani ſeſtertiis,</hi> Brerewood <hi>De Ponderi<g ref="char:EOLhyphen"/>bus &amp; Pretiis veterum nummorum.</hi>
+                     </p>
+                     <p>Mr. <hi>Greaves</hi> in his <hi>Denarius,</hi>
+                        <note place="margin">Shekel <hi>is uſnally understood where the Coyn or weight is not ex<g ref="char:EOLhyphen"/>preſſed, as</hi> Eſai. 7.23. 2 Sam. 18.11, 12. Mat. 26.15. Exodus 30.13. The ſhekel of the Sanctuary, <hi>either becauſe the ſhekel of the Sanctuary was twice as much as the Common ſhekel, which is indeed the common opinion; or rather becauſe the Standard of all weights and meaſures was kept in the</hi> Sanctuary, <hi>a ſhe<g ref="char:EOLhyphen"/>kel of the full weight and value, after the</hi> Standard <hi>of the</hi> Sanctuary. Mr. Jackſon.</note> would have the thirty pieces of Silver, which were given to <hi>Judas,</hi> as the reward of his treaſon, to be thirty ſhekels, that be<g ref="char:EOLhyphen"/>ing leſs then fifteen of our ordinary Crowns.</p>
+                     <p>We find in <hi>Exodus</hi> (ſaith he) the price of a ſervant to have been thirty ſhekels. <hi>Gaſſendus De vita Peireskii,</hi> ſaith as much, and ſo doth Dr. <hi>Hamon</hi> on <hi>Matth.</hi> 26.15. <hi>Mr. Greaves,</hi> there alſo ſaith, the diſtinction of a double ſhekel, the one ſacred equal to the tetradrachme, the o<g ref="char:EOLhyphen"/>ther prophane weighing the didrachme: that uſed in the Sanctuary, this in Civil Commerce, is without any ſolid foun<g ref="char:EOLhyphen"/>dation in the writ, and without any pro<g ref="char:EOLhyphen"/>bability
+<pb n="49" facs="tcp:57294:33"/>of reaſon, that in any wiſe State, the Prince and people ſhould have one ſort of Coyn, and the Prieſts ſhould have another, and that this of the Sanctuary ſhould be in a double proportion to the other, and yet that both ſhould concur in the ſame name, <hi>Rivet.</hi> on <hi>Exod.</hi> 30.13. goes the ſame way and gives four reaſons to prove that the ſhekel was but one.</p>
+                     <p>
+                        <hi>Matth.</hi> 22.20. The <hi>tribute Money</hi> or <hi>Denarius,</hi> that was to be paid to <hi>Cae<g ref="char:EOLhyphen"/>ſar</hi> by way of tribute, had on it, ſaith <hi>Occo,</hi> the picture or image of <hi>Caeſar,</hi> and in it theſe Letters written, <hi>Caeſar Augu<g ref="char:EOLhyphen"/>stus,</hi> ſuch a year after the taking of <hi>Ju<g ref="char:EOLhyphen"/>daea,</hi> Dr. <hi>Hammond in loc.</hi>
+                     </p>
+                     <p>
+                        <hi>Denarius</hi> may be conſidered in a dou<g ref="char:EOLhyphen"/>ble reſpect, either as <hi>nummus,</hi>
+                        <note place="margin">M. <hi>Greave</hi> of the <hi>De<g ref="char:EOLhyphen"/>narius.</hi>
+                        </note> or as <hi>pon<g ref="char:EOLhyphen"/>dus:</hi> In the firſt acception, the valuation of it in civil affairs is remarkable, in the later, the gravity and ponderouſneſs: The <hi>Denarius</hi> was a Silver Coyn in uſe amongſt the <hi>Romans,</hi> paſſing at the firſt inſtitution for <hi>Dena aera</hi> or ten <hi>Aſſes.</hi> whence the name: The Dutch eſteem it at ſix Stivers, or a <hi>ſhilling.</hi>
+                     </p>
+                     <pb n="50" facs="tcp:57294:34"/>
+                     <p>The <hi>Aſſis</hi> was a braſs Coyn weigh<g ref="char:EOLhyphen"/>ing a pound.
+<note place="margin">The <hi>aſſis</hi> is taken for the whole, ac<g ref="char:EOLhyphen"/>cording to the uſual phraſe of Civilians, <hi>ex aſſe haeres,</hi> when one is Heir to the whole inheritance.</note> The <hi>denarius</hi> had an im<g ref="char:EOLhyphen"/>preſs upon it of the figure X. denoting the decuſſis, or number of the <hi>Aſſes.</hi>
+                     </p>
+                     <p>
+                        <hi>Denarius</hi> as <hi>Pondus</hi> was either <hi>Conſu<g ref="char:EOLhyphen"/>laris,</hi>
+                        <note place="margin">
+                           <hi>Argenteus nummus Romano<g ref="char:EOLhyphen"/>rum De<g ref="char:EOLhyphen"/>narius eſt, Atticorum</hi> drachma. Scaliger De Re Numma<g ref="char:EOLhyphen"/>ria. <hi>Denarii drachmae ferè pondus &amp; aestimationem habebant</hi> Salmaſſii <hi>notae in Vopiſcii. A Drachma natum nostrum Dram,</hi> which in Gold is ſix ſhillings three pence, in Silver ſeven pence half peny.</note> made under the government of the City by the <hi>Conſuls,</hi> or <hi>Caeſareus,</hi> under the <hi>Caeſars,</hi> ſomtimes there is the Effi<g ref="char:EOLhyphen"/>gies of the <hi>Conſuls,</hi> and ſomtimes of the Emperour on it. <hi>Denarius</hi> is of as great moment for the Diſcovery of weights, as the <hi>Roman foot</hi> for the <hi>Meaſures.</hi>
+                     </p>
+                     <p>It weigheth of our Money ſeven pence, or ſeven pence half peny, and was the pay of the Roman Soldiers, and the wages of a Day-labourer, <hi>Matth.</hi> 20.9.</p>
+                     <p>The <hi>Athenian</hi> Drachma (the pay of their Souldiers) by account both of Mer<g ref="char:EOLhyphen"/>chants and Phyſicians weighed alike, and was of one value</p>
+                     <pb n="51" facs="tcp:57294:34"/>
+                     <p>
+                        <hi>Seſtertius</hi> ſignifies two and a half,
+<note place="margin">Seſtertius, <hi>quaſi ſe<g ref="char:EOLhyphen"/>miſſis ter<g ref="char:EOLhyphen"/>tius, ut in lege duode<g ref="char:EOLhyphen"/>cim tabu<g ref="char:EOLhyphen"/>larum pes ſeſtertius, ſunt pedes duo &amp; ſemis</hi> Snellius <hi>De Re Nummaria. Olim edoctus ſum</hi> Seſtertium <hi>valere duobus aſſibus &amp; ſemiſſe quando ſcilicet dicitur</hi> Seſtertius <hi>genere maſculino</hi> Seſtertium <hi>autem neu<g ref="char:EOLhyphen"/>tro genere valere mille</hi> ſeſtertios. <hi>Ratio eſt quia neuiro gene<g ref="char:EOLhyphen"/>re ſubintelligitur</hi> pondo, <hi>ut in maſculino</hi> nummus <hi>cum ſimpliciter dicitur</hi> ſeſtertius. Sarravii <hi>Epiſtolae videſis Voſ<g ref="char:EOLhyphen"/>ſii Etymologi con Linguae Latinae &amp; Lipſ. de Pecun. Denari<g ref="char:EOLhyphen"/>orum tot ſuut genera quot populorum, Spelmanui Gloſſa<g ref="char:EOLhyphen"/>rium.</hi>
+                        </note> as the vulgar note alſo importeth H s. or joyned H. s. that is, <hi>duo &amp; ſemis,</hi> two and a half, 'tis meant alwaies of ſo ma<g ref="char:EOLhyphen"/>ny <hi>aſſes,</hi> four <hi>Seſtertii</hi> are equivalent to a <hi>denarius.</hi> Sir <hi>Henry Savil</hi> on <hi>Tacitus,</hi> and Mr. <hi>Greaves</hi> of the <hi>Denarius.</hi>
+                     </p>
+                     <p>Every <hi>Sestertium</hi> was valued at ſeven pound ſixteen ſhillings three pence.</p>
+                     <p>As the <hi>Seſtertius</hi> according to <hi>Arrun<g ref="char:EOLhyphen"/>tius,</hi> was <hi>olim dupondius &amp; ſemis,</hi> anci<g ref="char:EOLhyphen"/>ently <hi>two pounds of braſs and an half;</hi> ſo the <hi>Seſtertius pes,</hi> was two foot and an half. Mr. <hi>Greaves</hi> his Diſcourſe of the Roman Foot.</p>
+                     <p>As the <hi>
+                           <g ref="char:V">Ʋ</g>nity</hi> in reſpect of Numbers, or the <hi>Seſtertius</hi> in Diſcourſes <hi>de re num<g ref="char:EOLhyphen"/>maria:</hi> So is the <hi>Denarius</hi> for weights, a fit riſe or beginning, from whence the
+<pb n="52" facs="tcp:57294:35"/>reſt may be deduced. Mr. <hi>Greaves</hi> of the <hi>Denarius.</hi>
+                     </p>
+                     <p>The <hi>Drachma</hi> as <hi>Nummus,</hi> was a ſil<g ref="char:EOLhyphen"/>ver Coyn in uſe amongſt the Athenians,
+<note place="margin">Drachma.</note> and ſo it was the meaſure of things vendible, as all Coyns are, and as <hi>pon<g ref="char:EOLhyphen"/>dus,</hi> it was the meaſure of their gravity and weight. Mr. <hi>Greaves</hi> of the <hi>Dena<g ref="char:EOLhyphen"/>rius.</hi>
+                     </p>
+                     <p>
+                        <hi>Dilher</hi> in the firſt <hi>Tome</hi> of his Acade<g ref="char:EOLhyphen"/>mical Diſputations, reckons up eight kinds of <hi>Drachmae;</hi> See <hi>Beza Schmi<g ref="char:EOLhyphen"/>dius,</hi> and Dr. <hi>Hammond</hi> on <hi>Matth.</hi> 17.27.</p>
+                     <p>
+                        <hi>Gellius, Noct. Attic. lib.</hi> 1. <hi>chap.</hi> 8. ſaith that <hi>Demoſthenes</hi> went privately un<g ref="char:EOLhyphen"/>to <hi>Lais,</hi> and deſired to lie with her; but ſhe demanding 10000 <hi>drachmae</hi> of him for one nights lodging with her; he re<g ref="char:EOLhyphen"/>fuſed, ſaying, He would not buy Re<g ref="char:EOLhyphen"/>pentance at ſo dear a rate; This was <hi>Lais,</hi> the Daughter; for there were two of that name, the mother and
+<note n="*" place="margin">Sive na<g ref="char:EOLhyphen"/>turalis, ſive adop<g ref="char:EOLhyphen"/>tiva.</note> daugh<g ref="char:EOLhyphen"/>ter: both beautiful and infamous ſtrum<g ref="char:EOLhyphen"/>pets, as <hi>Palmerius ad Pauſaniae Corin<g ref="char:EOLhyphen"/>thiaca</hi> ſheweth.</p>
+                     <pb n="53" facs="tcp:57294:35"/>
+                     <p>The <hi>Attick</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> or <hi>Mina,</hi> Contain<g ref="char:EOLhyphen"/>ed a hundred Drachmes in weight, as it is clear out of <hi>Pliny, Pollux,</hi> and others; ſome derive it from the Hebrew
+<gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,
+<note place="margin">From <hi>Ma<g ref="char:EOLhyphen"/>neh,</hi> in He<g ref="char:EOLhyphen"/>brew, <hi>Mua</hi> in Greek, and <hi>Mina</hi> in Latine, for a <hi>pound,</hi> hath its name. Mr. <hi>Ga<g ref="char:EOLhyphen"/>taker</hi> on <hi>Eſa.</hi> 65.11.</note> to number, the word is uſed <hi>Ezek.</hi> 45.12. and rendred <hi>Maneh.</hi>
+                     </p>
+                     <p>
+                        <hi>Snellius De Re Nummaria</hi> ſaith, it is manifeſt by the teſtimonies of Come<g ref="char:EOLhyphen"/>dians, that there was a double Talent in uſe among the Athenians, a greater and a leſſer.</p>
+                     <p>
+                        <hi>A</hi> Talent is the greateſt weight which was in uſe,
+<note place="margin">
+                           <hi>Attica Ta<g ref="char:EOLhyphen"/>lentum &amp; Mina ſunt Numerus, &amp; Collectio pecuniae, non ſpecies Nummi, Sealiger De Re Numma<g ref="char:EOLhyphen"/>ria.</hi> The Talent was manifold, the <hi>Attrick</hi> Talent is much cele<g ref="char:EOLhyphen"/>brated. <hi>Ainſworth.</hi>
+                        </note> every Talent was a twelve pounds weight; it weighed three thouſand Shekels, and every Shekel three hundred and twenty grains of Barley. An Hebrew Talent in Silver, is of our mo<g ref="char:EOLhyphen"/>ney three hundred ſeventy and five pounds. In Gold, four thouſand five hundred pounds.</p>
+                     <pb n="54" facs="tcp:57294:36" rendition="simple:additions"/>
+                     <p>1 <hi>Chron.</hi> 22.14.
+<note place="margin">
+                           <hi>See Brere<g ref="char:EOLhyphen"/>wood De Ponderi<g ref="char:EOLhyphen"/>bus Pret. Heb. &amp;c. c.</hi> 6.</note> 
+                        <hi>Now behold in my po<g ref="char:EOLhyphen"/>verty I have prepared for the houſe of the Lord an hundred thouſand Talents of Gold, and a thouſand thouſand Talents of Silver.</hi> Some compute it to be above thirty three thouſand Cart-loads of ſilver, allowing ſix thouſand pound ſterling to every Cart-load, and ſeventy millions of French Crowns of Gold. See Sir <hi>Walter Rawleigh</hi> his Hiſtory of the World, part 2. <hi>ch.</hi> 17. §. 9.</p>
+                     <p>1 <hi>Kings</hi> 9.14.
+<note place="margin">The Talent contained three hun<g ref="char:EOLhyphen"/>dred ſhe<g ref="char:EOLhyphen"/>kels, as may be collected from <hi>Exo.</hi> 38.25, 26. The He<g ref="char:EOLhyphen"/>brews va<g ref="char:EOLhyphen"/>lued Gold at ten times the rate of Silver.</note> The Jews had two Ta<g ref="char:EOLhyphen"/>lents, the one ſacred, the other common. The ſacred was in weight and worth, as much more as the common. The ſacred in Gold was reputed to be three thouſand ſeven hundred and fifty pound in value; the common, one thouſand eight hundred ſeventy and five pounds ſterling. Dr. <hi>Gouge in loc.</hi>
+                     </p>
+                     <p>
+                        <hi>Edward Brerewood</hi> heretofore Profeſ<g ref="char:EOLhyphen"/>ſor of <hi>Aſtronomy</hi> in <hi>Greſham-Colledge</hi> in <hi>London,</hi> hath publiſhed a learned Book, <hi>De Ponderibus &amp; Pretiis Veterum Nummorum, eorumque cum recentioribus Collatione,</hi> which is in the <hi>Apparatus</hi> of the <hi>Polyglot Bible.</hi>
+                     </p>
+                     <pb n="55" facs="tcp:57294:36"/>
+                     <p>
+                        <hi>Waſerus</hi> hath written ſo fully and ex<g ref="char:EOLhyphen"/>actly of the ancien Coyns of the <hi>He<g ref="char:EOLhyphen"/>brews, Chaldees,</hi> and <hi>Syrians,</hi> that there needs not to be ſaid more of that Argu<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>
+                        <hi>Budaeus</hi>
+                        <note n="*" place="margin">
+                           <hi>Sed de iſtoc &amp; caeteris ad rem mone<g ref="char:EOLhyphen"/>tariam pertinenti<g ref="char:EOLhyphen"/>bus, Con<g ref="char:EOLhyphen"/>ſuli malo Budaeum, Vortium, Hottomannum, Car. Moli nae<g ref="char:EOLhyphen"/>um, Covarruviam, &amp; intelligentiſſimu in bujus argumenti, Reinerum Budelium Ruremundanum Ictum, Electori Co<g ref="char:EOLhyphen"/>lonienſi, dum viveret, monetarum tam Rhenenſium, quam Weſt-falicarum praefectum: Cujus geminus exſtat. liber: unus de arte cudendae monetae; alter de quaeſtionibus Mo<g ref="char:EOLhyphen"/>netariis</hi> Voſſius <hi>De</hi> Phyſiol. Chriſt. <hi>l.</hi> 6. <hi>c.</hi> 36, <hi>Inter an<g ref="char:EOLhyphen"/>tiquos Oriſmius Lexonienſis Epiſcopus, &amp; Caroli ſexti Gall<g ref="char:EOLhyphen"/>drum regis praeceptor Curioſa de re Nummaria volumine, &amp; inter recentiores</hi> Gulielm. Budaeus <hi>libris de Aſſe, Joachim Camerarius de Nummiſmat. Graec. &amp; Lat Dempſ. in Roſin. Antiq. Rom.</hi> l. 7. c. 31. <hi>Vide Plure ibid.</hi>
+                        </note> in his Books <hi>de Aſſe,</hi> or the Breviary Collected out of him, with the Annotations of <hi>Philip Melanchthon,</hi> and <hi>Joachim Camerarius,</hi> are the beſt for the Greek and Latine Coyns.</p>
+                     <p>
+                        <hi>Antonius Auguſtinus</hi> a man very a<g ref="char:EOLhyphen"/>curate in Coyns, as appears by his Dia<g ref="char:EOLhyphen"/>logues. Mr. <hi>Greaves</hi> of the <hi>Denarius.</hi>
+                     </p>
+                     <p>
+                        <hi>Marquardus Freherus,</hi> hath put forth a learned Diſcourſe of paying tribute, where he ſpeaks ſomewhat of Roman Coyns. Mr. <hi>Selden De Jure Naturali ac
+<pb n="56" facs="tcp:57294:37"/>Gentium. l.</hi> 2. <hi>c.</hi> 8. calls it <hi>Eruditiſſima ac graviſſima De Numiſmate cenſus à Phariſaeis inqueſtionem vocato Diſſerta<g ref="char:EOLhyphen"/>tio.</hi>
+                     </p>
+                     <p>Mr. <hi>Greaves</hi> hath written learnedly of this ſubject in his diſcourſe of the <hi>Dena<g ref="char:EOLhyphen"/>rius.</hi>
+                     </p>
+                     <p>The Roman Emperours Gold, Silver, and Copper Coyn, (with their Images and Inſcriptions) are in the cuſtody of that learned Knight, and my worthy Friend, Sir <hi>John Cotten,</hi> as I have heard.</p>
+                     <p>It's pitty that Sir <hi>Simonds D' Eus</hi> my great friend, had not publiſhed ſomthing this way, he having ſpent ſo much time in this ſtudy, and having purchaſed ſo many ſeveral Coyns of all ſorts.</p>
+                     <p>There are ſome other Gentlemen that have a good Collection of Coyns; There are Coyns with <hi>Lazius, l.</hi> 3. <hi>Commen. Reipub. Romanae, c.</hi> 12. whoſe inſcription is
+<note n="*" place="margin">
+                           <hi>Omnium ad Remp. pertinenti<g ref="char:EOLhyphen"/>um ſupre<g ref="char:EOLhyphen"/>ma lex eſt ſalus po<g ref="char:EOLhyphen"/>puli, ſive Felicitas publica. Tam in nummo Juliae Mam<g ref="char:EOLhyphen"/>meae Auguſtae videre eſt formâ maetronae ſolio in ſidentis, quae dextra gerit caduceum, ſiniſtrâ copia cornu Inſcriptio autem eſt Felicitas Publica.</hi> Voſſius <hi>in Phyſiologia Chriſtiani &amp; Theo<g ref="char:EOLhyphen"/>logia Gentili.</hi> l. 10. <hi>c.</hi> 38.</note> 
+                        <hi>Salas Publica Dempſ. in Roſin. An<g ref="char:EOLhyphen"/>tiquit. Rom. lib.</hi> 1.</p>
+                     <pb n="57" facs="tcp:57294:37"/>
+                     <p>There are two requiſites (ſaith <hi>Demp<g ref="char:EOLhyphen"/>ſter</hi>) that Money paſs, <hi>proba materia, &amp; vultus Imperatoris ei impreſſus.</hi>
+                     </p>
+                     <p>Falſe money (ſaith He in <hi>Roſin An<g ref="char:EOLhyphen"/>tiq. Rom. l.</hi> 7. <hi>c.</hi> 31.) was forbidden by the Roman Laws, and the Crime is call<g ref="char:EOLhyphen"/>ed <hi>peculatus. Charles</hi> the Great had a ſhop in his Palace for the Coyning of Money, that it might be more diligently coyned.</p>
+                     <p>
+                        <hi>Camden</hi> in his <hi>Britaine</hi> ſaith, <hi>Nicolaus Fabricius de Peireſc.</hi> of <hi>France,</hi> was very skilfull in antiquities, and old me<g ref="char:EOLhyphen"/>dals or pieces of money.</p>
+                     <p>He ſaith there alſo that many pieces of Roman money are every
+<note n="†" place="margin">As in <hi>Lancaſhire</hi> at <hi>Lanca<g ref="char:EOLhyphen"/>ſter, Rible, Cheſter,</hi> in <hi>Weſtmor<g ref="char:EOLhyphen"/>land</hi> at <hi>Brougham Cumberland</hi>
+                        </note> where found among us in the ruines of Cities and Towns ſubverted, in Treaſure-Cof<g ref="char:EOLhyphen"/>fers, or vaults hidden in that age, as alſo in Funeral-pots and Pitchers.</p>
+                     <p>About thirty five years ſince,
+<note place="margin">
+                           <hi>One that writes the History of</hi> England, <hi>ſaith of the</hi> Britains. <hi>Some of their Money was in Braſs, other in Iron Rings; one eſpecial ſort, had the Figure of a ſhield Emboſs'd, and on that ſide a certain Image the De<g ref="char:EOLhyphen"/>vice was within.</hi>
+                        </note> not far from <hi>Dunſtable</hi> many pieces of ſilver
+<pb n="58" facs="tcp:57294:38"/>were taken up, which the plow had thrown upon the edge of the Furrough: Being examined, they were found to be ſilver with the impreſſion of <hi>Caeſar</hi> on them. Mr. <hi>Selden</hi> much valued them for their Antiquity, ſome of them having been ſtamped (as he ſaid) above nine hundred, and ſome a thouſand years. Mr. <hi>Peachams Worth of a Peny.</hi>
+                     </p>
+                     <p>I have been informed, that ſome Me<g ref="char:EOLhyphen"/>dals have been dig'd up at <hi>Shawell</hi> in <hi>Lei<g ref="char:EOLhyphen"/>ceſter-ſhire,</hi> the Town where I was born and alſo at <hi>Braunston.</hi>
+                     </p>
+                     <p>It is a great queſtion, ſaith <hi>Georgius Agricola,</hi> whether pure or mixt money be more profitable for Countries and States.</p>
+                     <p>
+                        <hi>Peacham</hi> in his <hi>Complete Gentleman,</hi>
+                        <note place="margin">
+                           <hi>Terrie</hi> in his Voy<g ref="char:EOLhyphen"/>age to the Eaſt-In<g ref="char:EOLhyphen"/>dies, ſaith that the Spaniſh Royal is the pureſt money of Europe. There is <hi>Pezzi di Quatro</hi> which is equal to four Reals, there are alſo pieces of two Reals, one Real, and half a Real.</note> c. 19. of Travels, ſaith, the Spaniſh Coyns are the beſt of <hi>Europe.</hi>
+                     </p>
+                     <p>
+                        <hi>Howell</hi> in his <hi>Dodonars Grove,</hi> or <hi>Vocal Forreſt, part</hi> 2. <hi>Walk</hi> 4. <hi>p.</hi> 44. ſaith, <hi>Drui<g ref="char:EOLhyphen"/>na</hi> (by which I ſuppoſe he means <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) is renowned abroad to have her
+<pb n="59" facs="tcp:57294:38"/>Kings Face and Arms drawn in the pureſt ſort of Minerals, and the generally beſt currant Coyns in the world.</p>
+                     <p>Queen <hi>Elizabeth</hi> cauſed all ſuch baſe monies as were Coyned by any of her Predeceſſors,
+<note place="margin">Dr <hi>Heylins Eccleſia Reſtaura<g ref="char:EOLhyphen"/>tu.</hi> p. 135.</note> to be reduced to a leſſer value, and to be brought into her Ma<g ref="char:EOLhyphen"/>jeſties Mint, for which ſhe gave them money of the pureſt ſilver, ſuch as paſſed commonly by the name of Eaſter<g ref="char:EOLhyphen"/>ling or Sterling money,
+<note place="margin">
+                           <hi>Eſterlin<g ref="char:EOLhyphen"/>gus &amp; Sterlingus apad Mat<g ref="char:EOLhyphen"/>thaum Pa<g ref="char:EOLhyphen"/>riſium, at<g ref="char:EOLhyphen"/>que alios, praecipue Anglica<g ref="char:EOLhyphen"/>nos ſcripto<g ref="char:EOLhyphen"/>res legas. Nec tamen eo rejicien<g ref="char:EOLhyphen"/>dum, quando hoc nihilo deterius eſt quam vulgata, illa voca<g ref="char:EOLhyphen"/>bula, daleri, ducati, floreni, ac ſimilia. Nam peouniae novitas nova exigebat vocabula. Notat ea vox Anglis denarium vox Sterling eſt ex eo inqu it Watſius quia stellae figura in ea compareret, Voſſius de Vitiis Sermonis</hi> l. 2. c. 5,</note> ſince which time, no baſe money hath been Coyned in <hi>England,</hi> but only of pure Gold and Silver, to paſs for current in the ſame; ſave that of late times, in relation to the Neceſſity of poor people, a permiſſion hath been given to the Coyning of Far<g ref="char:EOLhyphen"/>things, which no man can be forced to accept in ſatisfaction of a Rent or Debt.</p>
+                     <pb n="60" facs="tcp:57294:39"/>
+                     <p>In all other States of the Chriſtian World, there are ſeveral ſorts of Copper money, as current with them for pub<g ref="char:EOLhyphen"/>lick uſes, as the pureſt metal,</p>
+                     <p>Queen <hi>Elizabeth</hi> ſupplyed the King of <hi>Navarre</hi> in his ſtraits, with twenty two thouſand pounds of <hi>Engliſh</hi> money in Gold, (a ſum of Gold Coyn ſo great, as he profeſſed he had never ſeen together before) and ſent him Arms and four thouſand men, under the Command of <hi>Peregrine</hi> Lord <hi>Willoughbey.</hi>
+                     </p>
+                     <p>
+                        <hi>Camdens Annals</hi> of <hi>Queen Elizabeth.</hi> 4th Book, <hi>Anno</hi> 1589. <hi>the</hi> 32d of her Reign.</p>
+                     <p>Sterlings are uſed in <hi>England, Scotland</hi> and <hi>Ireland.</hi>
+                     </p>
+                     <p>That name of Sterling began in time of <hi>Hen.</hi> II. and had its original of name from ſome Eſterling, making that kind of money, which hath its Eſſence in par<g ref="char:EOLhyphen"/>ticular weight and fineneſs; not of the Starling Bird, as ſome, nor of Sterling in <hi>Scotland</hi> under <hi>Edw.</hi> 1. as others ab<g ref="char:EOLhyphen"/>ſurdly; for in Records much more anci<g ref="char:EOLhyphen"/>ent I have read the expreſs name <hi>Ster<g ref="char:EOLhyphen"/>lingorum. Mr. Selden</hi> on the 17th ſong, of <hi>Draytons Poly-olbion.</hi>
+                     </p>
+                     <pb n="61" facs="tcp:57294:39"/>
+                     <p>
+                        <hi>Sterling</hi> is a proper Epithete for mo<g ref="char:EOLhyphen"/>ney currant within the Realm.
+<note place="margin">
+                           <hi>Occurrit Eſterlin<g ref="char:EOLhyphen"/>gus inter<g ref="char:EOLhyphen"/>dum ſim<g ref="char:EOLhyphen"/>pliciter pro ipſo dena<g ref="char:EOLhyphen"/>rio, interdum ad diſtinguendam monetam probam a re proba, &amp; pro numo legali ingenere.</hi> Spelmanni Gloſſarium <hi>vide plura ibid.</hi>
+                        </note> A certain pure Coyn ſtamped firſt of all by the Eſterlings here in <hi>England.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>Cowells Interpreter.</head>
+                     <p>Eſterling money, now called Sterling, not from <hi>Striveling</hi> in <hi>Scotland,</hi> nor from a Star, which ſome dreamed to be Coyn<g ref="char:EOLhyphen"/>ed thereon. <hi>Camdens Remains.</hi>
+                     </p>
+                     <p>That denomination came from the <hi>Germans,</hi> of their Eaſterly dwelling, termed by Engliſh men Eſterlings, whom <hi>John,</hi> King of <hi>England</hi> firſt ſent to re<g ref="char:EOLhyphen"/>duce the ſilver to the due fineneſs and pu<g ref="char:EOLhyphen"/>rity. <hi>Camdens Britain.</hi> in <hi>Scotland.</hi>
+                     </p>
+                     <p>There is one <hi>Thomas Hylles</hi> that put out the Art of Vulgar arithmetick 1600. who hath <hi>p.</hi> 262. A Table of the names and values of the moſt uſual Gold Coyns in Chriſtendome, and begins with our own Country Gold. He mentions the Roſe Noble, or Royal, Half Roſe No<g ref="char:EOLhyphen"/>ble, Old Noble, Half Old Noble,
+<pb n="62" facs="tcp:57294:40"/>George Noble, Half George Noble, Angel, Half Angel, Old Crown. K. H. Baſe Crown K. H. Half Crown. Sove<g ref="char:EOLhyphen"/>raigne of K. H. other Sou. of all ſorts, Double Soveraign, Great Soveraign, Half Soveraigne. Unicorn of <hi>Scotland. Scottiſh</hi> Crown.</p>
+                     <p>There is for
+<note n="†" place="margin">
+                           <hi>The Eng<g ref="char:EOLhyphen"/>liſh Gold being at a higher va<g ref="char:EOLhyphen"/>lue beyond the Seas, then in our own Nation, it is a great Cauſe of the tranſportation of it,</hi> Peachams Worth of a Peny.</note> Gold.</p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>The <hi>Carolus</hi> or <hi>Piece</hi>
+                              </cell>
+                              <cell>20 <hi>s</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>And the <hi>Ginie Pieces,</hi>
+                              </cell>
+                              <cell>22 <hi>s</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>The <hi>Angel</hi>
+                              </cell>
+                              <cell>10 &amp; 11 <hi>s</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>And <hi>Crown</hi>
+                              </cell>
+                              <cell>5 <hi>s.</hi> &amp; 5 <hi>s.</hi> 6 <hi>d.</hi> and 2 <hi>s.</hi> 9 <hi>d.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>For Silver.</p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>The <hi>Crown</hi>
+                              </cell>
+                              <cell>5 <hi>s.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>Half <hi>Crown</hi>
+                              </cell>
+                              <cell>2 <hi>s.</hi> 6 <hi>d.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>Thirteen pence half penny.</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Half and quarter that and</cell>
+                              <cell>4 <hi>d. ob.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>Shilling</cell>
+                              <cell>12 <hi>d.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell> </cell>
+                              <cell>9 <hi>d.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell> </cell>
+                              <cell>6 <hi>d.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>Groat</cell>
+                              <cell>4 <hi>d.</hi>
+                              </cell>
+                           </row>
+                           <pb n="63" facs="tcp:57294:40"/>
+                           <row>
+                              <cell>Three Pence</cell>
+                              <cell>3 <hi>d.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>Two Pence</cell>
+                              <cell>2 <hi>d.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>Penny
+<note n="†" place="margin">There are ſo many kinds of Pence, as there are ſeveral Countries or Nations. Our Engliſh Penny is a Scottiſh Shilling. See more there Ibid.</note>
+                              </cell>
+                              <cell>1 <hi>d.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>Half-Penny</cell>
+                              <cell>
+                                 <hi>ob.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>Here in England that which was ſold about an hundred years agone for ten Groats, which then weighed and ounce, now ſince the diſcovery of the Indies, can hardly be bought for ten ſhillings of our current Money, or two ounces of the ſame goodneſs and weight.</p>
+                     <p>Sir <hi>Henry Savill</hi> on a Place in <hi>Poly<g ref="char:EOLhyphen"/>bius.</hi>
+                     </p>
+                     <p>In the Low-Countries and Germany, the uſual Coyns in Gold are Duckats, and double Duckats, the Duckats are called Hungars at <hi>Venice,</hi> and are worth nine ſhillings Engliſh.</p>
+                     <p>In the Low-Countries the uſual ſilver pieces are Ducatoons equal to ten Dutch ſhillings, or ſixty ſtivers; Paracoons e<g ref="char:EOLhyphen"/>qual forty eight ſtivers, or eight Dutch ſhillings; Shillings equal to ſix ſtivers. But the States money is a little under this value, ſtiver, in braſs, the fourth part of ſtivers pieces.</p>
+                     <pb n="64" facs="tcp:57294:41"/>
+                     <p>In <hi>Germany</hi> the moſt Common pieces in ſilver are Dollars, Copſticks, and half Copſticks, equal juſt to our ſhillings and ſix-pences,
+<note place="margin">
+                           <hi>Tafiletta</hi> the great Emperour of <hi>Barba<g ref="char:EOLhyphen"/>ry,</hi> allows to every Horſeman ſixteen Dollars a Month, and to every Footman eight, ſo that his men are not chargeable to the Countrey. Relation of ſome part of his life.</note> and there is abundance of our ſhillings and ſixpences which paſs under that name.</p>
+                     <p>This word Copſtick comes from <hi>Ca<g ref="char:EOLhyphen"/>put,</hi> as the Italian Teſton from <hi>Teſta.</hi> Kreutzers, ſo called from the Mark of the Croſs. Weiſs-penny equal to two Kreutzers. Graſſe equal to three Kreut<g ref="char:EOLhyphen"/>zers; ten Weiſs-pennies are equal to five Copſticks, Guilders equal to three Cop<g ref="char:EOLhyphen"/>ſticks, and half Guilders, a Weiſs-pen<g ref="char:EOLhyphen"/>ny a White Penny in Dutch, theſe leſſer peices are of a mixt metal.</p>
+                     <p>The <hi>German Dollars</hi> furniſht all the Mints of <hi>Europe,</hi>
+                        <note place="margin">The Ger<g ref="char:EOLhyphen"/>man ſilver Dollar, called Rix Dollar, in <hi>England</hi> is worth 4 <hi>s.</hi>—6 <hi>d.</hi> or as ſome ſay 4 <hi>s.</hi> — 8 <hi>d.</hi>
+                        </note> before the Mines of <hi>Mexico</hi> and <hi>Potoſi</hi> were diſcovered in <hi>America.</hi>
+                     </p>
+                     <pb n="65" facs="tcp:57294:41"/>
+                     <p>There were the Latine, Attick, and Greek pounds.</p>
+                     <p>
+                        <hi>Libra. Numaria</hi> or pound,
+<note place="margin">
+                           <hi>Spelmanni Gloſſari<g ref="char:EOLhyphen"/>um, See</hi> Ezra 2.69</note> took its name from the weight, becauſe it weigh<g ref="char:EOLhyphen"/>ed in times paſt a <hi>Trojane</hi> pound, that is, twelve Ounces. Thence the <hi>Saxon punde,</hi> and the <hi>Engliſh pound.</hi>
+                     </p>
+                     <p>The pound ſterling in <hi>Britain</hi> (ſaith <hi>Angelo Crator De Monetis</hi> c. 1.) is e<g ref="char:EOLhyphen"/>ſteemed ten <hi>Brabantine Florenes,</hi> or four <hi>Spaniſh</hi> Dollars.</p>
+                     <p>In <hi>Spain</hi> for Gold
+<note n="†" place="margin">
+                           <hi>The Spa<g ref="char:EOLhyphen"/>niſh Piſtoll, is about ſeven pence better than the Italian, The value of Money in Spain is very often varied according to the wills and Intereſts of the Princes.</hi>
+                        </note> Piſtolls, and half Piſtolls, and double Piſtolls. In Silver, the common pieces there, are a piece of eight, a half piece of eight, a quarter piece of eight, a half quarter piece of eight, and a piece that is but a ſixteenth part of a piece of the Royal eight.</p>
+                     <p>In <hi>France</hi> for Gold, the common pieces are the Lewis, equal (not many years ſince) to eleven Livers, the half Lewis half ſo much. The Eſcud' or now about ſix Livers,. For Silver the Eſcue equal to three Livers, the thirty, fif<g ref="char:EOLhyphen"/>teen,
+<pb n="66" facs="tcp:57294:42"/>and five Sous pieces. The Quart D'Eſcu (becauſe the fourth part of the Eſcud' or) equal to one Liver. Mixt me<g ref="char:EOLhyphen"/>tal, the Souſe and the Souſe Marque. For Braſs the Denier and the Lyard e<g ref="char:EOLhyphen"/>equal to two Deniers, at firſt ſtamp'd for three Deniers.</p>
+                     <p>
+                        <hi>Johnſon</hi> adviſeth Travellers if they car<g ref="char:EOLhyphen"/>ry over money with them, that it be in double Piſtolets or French Crowns of weight, by theſe (ſaith he) He is ſure to ſuſtain loſſe in no place, and in <hi>Italy</hi> to gain above twelve pence in the pound.</p>
+                     <p>
+                        <hi>Bizantines</hi> or <hi>Bezants,</hi>
+                        <note place="margin">
+                           <hi>Constanti<g ref="char:EOLhyphen"/>nopolis primum Bizanti<g ref="char:EOLhyphen"/>um dicta formam antiqui vocabuli praeferunt Imporato<g ref="char:EOLhyphen"/>rii Num<g ref="char:EOLhyphen"/>mi Bizan<g ref="char:EOLhyphen"/>tini Vocati.</hi> Spelmanni Gloſſari<g ref="char:EOLhyphen"/>um. <hi>Vide</hi> Cotgrave <hi>Dictionar. Gallico. Anglic, verbe</hi> Beſant.</note> as coyned at <hi>Conſtantinople,</hi> ſomtimes called <hi>Bizanti<g ref="char:EOLhyphen"/>um,</hi> and not at <hi>Beſanſon</hi> in <hi>Burgundy,</hi> plates of Gold are called <hi>Bezantes;</hi> and in the Court of <hi>England</hi> where a great piece of Gold valued at fifteen pound, which the King offereth upon high Feſti<g ref="char:EOLhyphen"/>vall days is yet called a <hi>Bizantine,</hi> which anciently was a piece of Gold Coyned by the Emperours of <hi>Conſtantinople, Cam<g ref="char:EOLhyphen"/>dens Remains of money;</hi> in his <hi>Britannia</hi> in <hi>Middleſex,</hi> He ſpeaks of <hi>Bizantines</hi> of Silver vallued at two ſhillings antient<g ref="char:EOLhyphen"/>ly.</p>
+                     <pb n="67" facs="tcp:57294:42"/>
+                     <p>
+                        <hi>Lar</hi> is a Coyn much uſed in the Eaſt, both in <hi>Perſia</hi> and the Eaſt-Indies. There is one of them to be ſeen within the Gal<g ref="char:EOLhyphen"/>lery above the publick Library in <hi>Ox<g ref="char:EOLhyphen"/>ford</hi>
+                     </p>
+                     <p>The <hi>Asper</hi> in <hi>Turkie</hi> is worth a Peny,
+<note place="margin">Turkiſh Aſper.</note> and often mentioned, one of which I have ſeen.</p>
+                     <p>In <hi>Italy</hi> at <hi>Venice,</hi> for Gold there is the <hi>Chequeen</hi> equal to ſeventeen <hi>Livers,</hi> the <hi>Ducat</hi> for ſilver, a <hi>Scudo</hi> which by a <hi>Bando, anno</hi> 1663 was rated at nine <hi>Li<g ref="char:EOLhyphen"/>vers</hi> ſix <hi>Sous,</hi> one half, one quarter, and the eighth part of a <hi>Scudo,</hi> a <hi>Ducaton.</hi>
+                     </p>
+                     <p>For braſs <hi>Soldo,</hi> and half <hi>Soldo,</hi> and <hi>Sol<g ref="char:EOLhyphen"/>dino,</hi> alſo a <hi>Denier. Genoa,</hi> for <hi>Gold,</hi> double <hi>Piſtolls, Piſtolls.</hi> The <hi>Pistoll</hi> is called <hi>Doppio</hi> or <hi>Dobla,</hi> the double <hi>Pi<g ref="char:EOLhyphen"/>ſtoll Doblone.</hi>
+                     </p>
+                     <p>The ſilver pieces there are a <hi>Croiſon</hi> or <hi>Scudo.</hi>
+                     </p>
+                     <p>For Braſs D'<hi>otto</hi> pieces equal to eight <hi>Deniers, de Quatro</hi> equal to four <hi>Deni<g ref="char:EOLhyphen"/>ers</hi> and the <hi>Deniers.</hi>
+                     </p>
+                     <p>At <hi>Florence</hi> for ſilver, the <hi>Scudo</hi> equal to ten <hi>Julios,</hi> the <hi>Teſton</hi> equal to three <hi>Julios</hi> (ſo called from having a Head up<g ref="char:EOLhyphen"/>on it which is in <hi>Italian Teſta</hi>) <hi>Julios,</hi> half <hi>Julios,</hi> and <hi>Quarto Julio</hi> pieces, the
+<pb n="68" facs="tcp:57294:43"/>
+                        <hi>Grats</hi> equal to five <hi>Quatrins.</hi>
+                     </p>
+                     <p>In Braſs the <hi>Quatrin</hi> equall to the third part of a <hi>Soldo.</hi>
+                     </p>
+                     <p>In the Popes Territories, in ſilver a <hi>Scudo</hi> equal to ten <hi>Julios,</hi> a <hi>Teſton, Julio,</hi> half a <hi>Julio</hi> and a quarter of a <hi>Julio,</hi>
+                     </p>
+                     <p>At <hi>Banonia Bajocks,</hi>
+                        <note n="*" place="margin">
+                           <hi>The Pope who hath ſix and twenty thouſand Crowns a day to ſpend; on the day of his Coronati<g ref="char:EOLhyphen"/>on ſcattereth among the people</hi> Baiocchi, <hi>and</hi> Bagatini, <hi>half pence and farthings: ſaying with St.</hi> Peter <hi>Act.</hi> 3.6. Silver and Gold I have none, but ſuch as I have I give thee. <hi>Peter Du Moulius Confutat.</hi> of <hi>Lurgat.</hi> ch. 5.</note> and two <hi>Ba<g ref="char:EOLhyphen"/>jocks</hi> pieces of a mixt metal.</p>
+                     <p>
+                        <hi>Naples,</hi> in ſilver, <hi>Carolines</hi> equal to <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ulios,</hi> but not altogether ſo good, two <hi>Caroline</hi> pieces.</p>
+                     <p>In Braſs <hi>Granos, Publicas</hi> equal to one and a half of a <hi>Grano.</hi>
+                     </p>
+                     <p>There are pieces of Gold called <hi>Flo<g ref="char:EOLhyphen"/>rentini,</hi> or <hi>Floreni Florens,</hi> becauſe firſt coyned in the City of <hi>Florence,</hi> and ha<g ref="char:EOLhyphen"/>ving the ſhape of the flower of the <hi>Lilly</hi> in one ſide, and of <hi>John Baptiſt</hi> in the o<g ref="char:EOLhyphen"/>ther, it is called in <hi>Italian, Florino. Voſſius de Vitiis Sermonis, l</hi> 3. <hi>c.</hi> 12. ſaith, that the <hi>French</hi> had alſo in times paſt its <hi>Florene,</hi> thence called <hi>Franc</hi> ſaith he, A <hi>Franc</hi> is
+<pb n="69" facs="tcp:57294:43"/>one ſhilling ſix pence in <hi>England,</hi> ſo is a <hi>Livre</hi> ſaith he, and the <hi>Engliſh</hi> alſo of the beſt Gold, thence called
+<note n="†" place="margin">
+                           <hi>Auri Nummis apud Anglos geuus ante noſtram memoriam Exoletum.</hi> Spel<g ref="char:EOLhyphen"/>manni Gloſſarium.</note> 
+                        <hi>Noble.</hi>
+                     </p>
+                     <p>There were alſo the <hi>Rheniſh Florens</hi> firſt coyned by the four <hi>Electors</hi> at <hi>Rhene,</hi> that of <hi>Mentz, Trevers, Colen,</hi> and the <hi>Palatine,</hi> after uſed by others, ſomthing inferiour to thoſe firſt.</p>
+                     <p>The pieces of Gold called <hi>Ducats</hi> were firſt coyned by the <hi>Venetians</hi> and thoſe of <hi>Genoa.</hi>
+                     </p>
+                     <p>There are (ſaith <hi>Georgius Agricola</hi>) the <hi>Hungarian, Venetian,
+<note place="margin">
+                              <hi>The</hi> Polo<g ref="char:EOLhyphen"/>mans <hi>Gold Ducats are of the ſame value with the</hi> Hungarian.</note> Spaniſh</hi> and <hi>Turkiſh Ducats.</hi>
+                     </p>
+                     <p>
+                        <hi>Artiabalipa</hi> King of <hi>Peru</hi> payed for his ranſom ten millions three hundred twen<g ref="char:EOLhyphen"/>ty ſix thouſand <hi>Ducats</hi> in Gold. <hi>Du mi<g ref="char:EOLhyphen"/>roir des Francois Liure premier.</hi>
+                     </p>
+                     <p>The <hi>Turkiſh Sultanie</hi> is of the ſame Standard, firmneſs, and value, with the <hi>Hungarian Duckat.</hi>
+                     </p>
+                     <pb n="70" facs="tcp:57294:44"/>
+                     <p>The <hi>Venetian Chequeen,</hi> in <hi>England</hi> 9 <hi>s.</hi> 6 <hi>d.</hi> the <hi>Barbary Duckat,</hi> the <hi>Egyp<g ref="char:EOLhyphen"/>tian</hi> and <hi>Turkiſh Erif,</hi> are almoſt all of the ſame pureneſs in reſpect of the Gold,
+<note place="margin">MGreaves <hi>of the</hi> De<g ref="char:EOLhyphen"/>narius.</note> and not differing above a grain in the weight.</p>
+                     <p>The old <hi>Denarius,
+<note place="margin">
+                              <hi>The</hi> Giulii <hi>or</hi> Pauli <hi>are two names of the ſame price, from two Popes.</hi>
+                           </note> Drachma Dutch</hi> ſhilling, <hi>Spaniſh Reall Roman Julios</hi> or <hi>Paulos,</hi> are neer of an equal value; The <hi>French Eſcu</hi> or ſilver <hi>Crown,</hi> the <hi>Spaniſh Piice</hi> of <hi>eight,</hi> the <hi>German Dollar,</hi> the <hi>Low-Dutch Patacon</hi> are of an equal va<g ref="char:EOLhyphen"/>lue.</p>
+                     <p>Mr. <hi>Broughton</hi> ſaith, he asked a ſim<g ref="char:EOLhyphen"/>ple Mariner which had been in the <hi>Weſt-Indies,</hi> what they called Gold there, he ſaid <hi>Cethem,</hi> juſt the Scripture term.</p>
+                     <p>
+                        <hi>Broughtons Epiſtle</hi> to the <hi>Require</hi> or <hi>Conſent</hi> to the grounds of <hi>Divinity ſtudies.</hi>
+                     </p>
+                     <p>Their currant money in the <hi>West-In<g ref="char:EOLhyphen"/>dies</hi> is of the fruites of certain trees like our <hi>Almonds,</hi> which they call <hi>Cachoas. Pet. Mart.</hi> firſt <hi>Decade,</hi> ch. 4.</p>
+                     <p>The Coyns of the <hi>Weſt-Indies</hi> are <hi>Wampon Peague,</hi> (the ſixth part of a penny with us) which goes by number, and <hi>Ronokco</hi> which goes by weight.</p>
+                     <p>In the <hi>Eaſt-Indies</hi> the <hi>Rupihes</hi> of <hi>Ro<g ref="char:EOLhyphen"/>pees</hi> of divers values and <hi>Mah Mudies.</hi>
+                     </p>
+                     <pb n="71" facs="tcp:57294:44"/>
+                     <p>They have in the <hi>Weſt-Indies</hi> alſo a Golden Coyn which they call a <hi>Caſtellan,</hi> it exceedeth the <hi>Ducaet,</hi> it is commonly a third part called <hi>Peſus</hi>
+                     </p>
+                     <p>The Coyn or <hi>Bullion</hi> brought to the <hi>Eaſt-Indies</hi> from any place, is preſently melted and refined, and the <hi>Moguls</hi> ſtamp (which is his Name and Titles in <hi>Perſian</hi> Characters) put upon it. The Coyn there is more pure than in any o<g ref="char:EOLhyphen"/>ther part of the world, being made of pure ſilver, without any Allay.</p>
+                     <p>Sir <hi>Thomas Roes</hi> Voyage into the <hi>Eaſt-Indies.</hi>
+                     </p>
+                     <p>
+                        <hi>Madines</hi> are the ſmall ſilver Money currant in <hi>Egypt.</hi>
+                        <note place="margin">
+                           <hi>The</hi> Ara<g ref="char:EOLhyphen"/>bick <hi>uſeth to expreſs the leaſt piece of money that is by</hi> Phals, <hi>for two Mites,</hi> Mark 12.42. <hi>They read</hi> Phalſam.</note>
+                     </p>
+                     <p>Mr. <hi>Greaves</hi> in his <hi>Denarius,</hi> ſaith at his being in <hi>Egypt,</hi> five <hi>Madines</hi> paſſed for a <hi>Dollar: Sands</hi> in his Travels ſaith forty.</p>
+                     <p>Moſt Countries (ſaith Mr. <hi>Greaves</hi>) uſe the ſame weights for <hi>Silks, Gold</hi> and <hi>Silver.</hi>
+                     </p>
+                     <pb n="72" facs="tcp:57294:45"/>
+                     <p>The <hi>Perſians</hi> loved ſhooting ſo well,
+<note place="margin">Pliny l. 7. c. 5. <hi>wri<g ref="char:EOLhyphen"/>teth that</hi> Perſes <hi>the ſon of</hi> Per<g ref="char:EOLhyphen"/>ſius, <hi>of whom the</hi> Perſians <hi>had their Surname, Should be the firſt de<g ref="char:EOLhyphen"/>viſer of Shafts. Yet the Scripture, (which is ancienter then any kind of learning) mentions Archers.</hi> Gen. 21.20. 1 Sam. 31.3. 2 Chron. 35.23.</note> that they ſet an <hi>Archer</hi> on the reverſe of their Coyn of Gold, which was of great value. The King of <hi>Perſia</hi> being offend<g ref="char:EOLhyphen"/>ed at <hi>Ageſilaus,</hi> gave the <hi>Athenians</hi> ten thouſand pieces of this great Coyn of Gold of theirs, and ſo corrupted them; which thing when <hi>Ageſilaus</hi> underſtood, he ſaid merrily, but yet truly, <hi>That he was driven away with ten thouſand Bow<g ref="char:EOLhyphen"/>men,</hi> (meaning the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r Coyn of Gold with an <hi>Archer</hi> on it) <hi>and how ſhould he a poor man be able to withſtand ſo many Archers.</hi> See <hi>Plutarch</hi> in <hi>Ageſilaus.</hi>
+                     </p>
+                     <p>The <hi>Muſcovites</hi> have but one kind of money which they call <hi>Copeca,</hi> fifty of which make a <hi>Crown,</hi> 'tis of <hi>Silver</hi> of an Oval figure, and ſo ſmall, that the va<g ref="char:EOLhyphen"/>lue of two <hi>Crowns</hi> will ſearce bear the bulk of four pence in French <hi>Deniers;</hi> that which they call <hi>Muſcofske</hi> is the fourth part of a <hi>Copeca, Poluske</hi> is the half, an <hi>Alim</hi> is three pence, a <hi>Grifna</hi> is ten, a <hi>Rouble</hi> a hundred, but theſe are not to be had of one piece.</p>
+                     <pb n="73" facs="tcp:57294:45"/>
+                     <p>Relation of three Embaſſies by the Earl of <hi>Carliſle, p.</hi> 68.</p>
+                     <p>Many Coyns reſemble the <hi>Dragon</hi> with the title of <hi>Health.</hi> This moſt vigi<g ref="char:EOLhyphen"/>lant Creature is a Type of <hi>Aeſculapius.</hi> Vigilance is neceſſary for a Phyſitian.</p>
+                     <p>It were worthy the inquiry of ſome ſtudious perſons, how the cuſtome came up of dividing money into pounds, ſhil<g ref="char:EOLhyphen"/>lings and pence, which is uſed in moſt places of <hi>Europe.</hi> A <hi>Liver</hi> or pound, ſay ſome, is every where equal to twenty <hi>ſo<g ref="char:EOLhyphen"/>lidi, ſoldi ſous</hi> or ſhillings, a ſhilling is e<g ref="char:EOLhyphen"/>qual to twelve of the modern <hi>Denarii</hi> or pence, but the value of the Livers is ve<g ref="char:EOLhyphen"/>ry different in <hi>France.</hi> a Liver is about 1 <hi>s.</hi> 6 <hi>d. Engliſh,</hi> in <hi>Flanders</hi> a Liver is e<g ref="char:EOLhyphen"/>qual to 11 <hi>s.</hi> 3 <hi>d. Engliſh;</hi> in <hi>Venice</hi> a Liver is about ſeven pence half peny, at <hi>Genoa</hi> a Liver is about one ſhilling <hi>Engliſh,</hi> at <hi>Turin</hi> a Liver is about one ſhilling three pence, at <hi>Ligorn</hi> a Liver is 9 <hi>d.</hi> at <hi>Millain</hi> a Liver is 10 <hi>d.</hi> in the Popes Country a Liver is 13 <hi>d.</hi> at <hi>Naples</hi> 12 <hi>d.</hi> in the Popes Territories in <hi>Catalonia</hi> a Liver is about 3 <hi>s.</hi> 6 <hi>d.</hi> in <hi>Valentia</hi> a Liver is about 5 <hi>s.</hi> in <hi>Caſtile</hi> and <hi>Granada</hi> not long ſince, a Liver was 2 <hi>s.</hi> 6 <hi>d.</hi> in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> a pound is equal to 1 <hi>s.</hi> 8 <hi>d.</hi>
+                     </p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:57294:46"/>
+                  <pb facs="tcp:57294:46"/>
+                  <p>A Diatribe OF MEASURING OF THE DISTANCE Betwixt PLACE and PLACE.</p>
+                  <p>Printed in the Year, MDCLXXI.</p>
+               </div>
+            </front>
+            <body>
+               <div type="diatribe">
+                  <pb facs="tcp:57294:47"/>
+                  <pb n="76" facs="tcp:57294:47"/>
+                  <head>A DIATRIBE OF MEASURING, &amp;c.</head>
+                  <p>
+                     <seg rend="decorInit">G</seg>Eometry is an Art of Meaſuring well.</p>
+                  <p>The ſeveral
+<note n="†" place="margin">Dr. <hi>Wil<g ref="char:EOLhyphen"/>kins</hi> his Eſſay to<g ref="char:EOLhyphen"/>ward a Real cha<g ref="char:EOLhyphen"/>racter <hi>pars</hi> 2. <hi>ch.</hi> 7.</note> Nations of the World do not more differ in their Languages, then in the various kinds and proportions of their Meaſures.</p>
+                  <pb n="78" facs="tcp:57294:48"/>
+                  <p>That the Foot was the moſt received and uſual meaſure amongſt rhe <hi>Romans,</hi>
+                     <note place="margin">
+                        <hi>Menſu<g ref="char:EOLhyphen"/>rant Tal<g ref="char:EOLhyphen"/>mudici, a<g ref="char:EOLhyphen"/>liquando per</hi> Millia<g ref="char:EOLhyphen"/>ria <hi>ali<g ref="char:EOLhyphen"/>quando per</hi> Parſas, <hi>a<g ref="char:EOLhyphen"/>liquando per</hi> Dietas. <hi>
+                           <g ref="char:V">Ʋ</g>nam quamque harum Comperies apud eos frequent iſſime. D.</hi> Ligh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. <hi>Decas Chorographica. c.</hi> 8.</note> as the <hi>Cubit</hi> amongſt the <hi>Jews,</hi> is a thing not controverted by any. Mr. <hi>Greaves</hi> of the <hi>Roman Foot.</hi> As the <hi>Denarius</hi> con<g ref="char:EOLhyphen"/>tained ſixteen <hi>Aſſes,</hi> ſo the <hi>Foot</hi> contain<g ref="char:EOLhyphen"/>ed ſixteen <hi>Digitos.</hi>
+                  </p>
+                  <p>The <hi>Roman Milliare</hi> contains <hi>Mille p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſus</hi> as the very name imports,
+<note place="margin">
+                        <hi>Quem ad<g ref="char:EOLhyphen"/>modum Perſae</hi> Pa<g ref="char:EOLhyphen"/>raſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ngis, Aegypt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i Schenis, Galli Leu<g ref="char:EOLhyphen"/>cis, <hi>ita La<g ref="char:EOLhyphen"/>tini</hi> Millibus Paſſuum <hi>Lapidum menſuras deſignaverunt, Suritae Prefat. ad Comment in</hi> Antom Auguſt. Itin.</note> and eve<g ref="char:EOLhyphen"/>ry <hi>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſus</hi> conſiſts alſo of five <hi>Feet,</hi> as <hi>Co<g ref="char:EOLhyphen"/>lumelia</hi> and <hi>Iſidorus</hi> expreſsly tell us. Mr. <hi>Greaves</hi> of the <hi>Roman Foot.</hi>
+                  </p>
+                  <p>The Sun according to the Mathemati<g ref="char:EOLhyphen"/>cal Computation, every hour, and that in reſpect of the Earth onely, by this courſe abſolves two hundred twenty and five miles, in the day and night, and in reſpect of the earth, it runs over five thouſand four hundred miles. How great then will its courſe be in reſpect of its Orbe.</p>
+                  <pb n="79" facs="tcp:57294:48"/>
+                  <p>The Phyloſophers are of opinion that the Earth, together with the Sea,
+<note place="margin">
+                        <hi>Totius glo<g ref="char:EOLhyphen"/>bi terreni ambitus eſt millia<g ref="char:EOLhyphen"/>rium Ger<g ref="char:EOLhyphen"/>manico<g ref="char:EOLhyphen"/>rum Communium</hi> 5400. <hi>Keck. System. Geog.</hi> lib. 1. ch. 4.</note> do contain in compaſs or circuit ſix thouſand three hundred Dutch miles.</p>
+                  <p>The <hi>Romans</hi> uſed to Meaſure out the diſtance betwixt one place and another,
+<note place="margin">
+                        <hi>A Mille eſt Milliare ac Millia<g ref="char:EOLhyphen"/>rium, mil<g ref="char:EOLhyphen"/>le paſſuum ſpatium.</hi> Voſſii E<g ref="char:EOLhyphen"/>tymologi<g ref="char:EOLhyphen"/>con Lin<g ref="char:EOLhyphen"/>guae Lati<g ref="char:EOLhyphen"/>nae. <hi>Notiſſimum lapides veteribus dictos pro</hi> Milliaribus, <hi>quae ſingula ſingulis lapidibus denotabantur,</hi> Barth. <hi>ad</hi> Rutil. l. 2, Animadverſ.</note> by thouſands of Paces, which they call <hi>Milliaria,</hi> Miles; and whereas there was placed at each Miles end, a ſtone, or pillar, the word <hi>Lapis</hi> came to be uſed to ſignifie a Mile, as <hi>ad Decimum lapidem poſitaurbs,</hi> a City ten Miles off.</p>
+                  <p>
+                     <hi>Ad Lapidem Torquatus habet praetoria quartum, Mart. Epig. l.</hi> 10. <hi>Epig.</hi> 79.</p>
+                  <p>Whence grew alſo the uſual Phraſe, <hi>Ad tertium quartum quintum ab urbe la<g ref="char:EOLhyphen"/>pidem,</hi> for three, four or five miles from the City.</p>
+                  <p>Sir <hi>Henry Savill</hi> in his notes on the firſt Book of <hi>Tacitus</hi> his <hi>History,</hi> where he alſo obſerves; that as there were <hi>mil<g ref="char:EOLhyphen"/>liaria
+<pb n="80" facs="tcp:57294:49"/>laepidea,</hi> Little pillars of ſtone e<g ref="char:EOLhyphen"/>rected by order from <hi>C. Gracchus</hi> at the end of every mile; ſo there was <hi>Millia<g ref="char:EOLhyphen"/>rium aureum,</hi> a Golden pillar ſet up by <hi>Auguſtus;</hi> ſo called becauſe from thence began the account of Miles.</p>
+                  <p>There are ſtill in the <hi>Appian</hi> way ſe<g ref="char:EOLhyphen"/>veral <hi>Columnae</hi> or <hi>Lapides Milliarii,</hi> ſtanding,
+<note place="margin">
+                        <hi>Columna quaedam in Capite Romani Fori, in quam om<g ref="char:EOLhyphen"/>nes Italiae viae terminabantur. Salmuth in Pancirolli Nova Reperta Tit.</hi> 16. The <hi>Columna Milliaria,</hi> from which they began to meaſure, is ſtill in the Court before the <hi>Ca<g ref="char:EOLhyphen"/>pitol</hi> at <hi>Rome.</hi>
+                     </note> whereby the <hi>Romans</hi> divided and diſtinguiſhed their Miles, which occa<g ref="char:EOLhyphen"/>ſioned thoſe phraſes, <hi>ad primum, ad quartum, ad centeſimum lapidem.</hi>
+                  </p>
+                  <p>Mr. <hi>Greaves,</hi> Among the divers Mea<g ref="char:EOLhyphen"/>ſures which Geographers uſe to ſhew the dimenſion of the Earth,
+<note place="margin">
+                        <hi>Intervalla locorum certis ſig<g ref="char:EOLhyphen"/>nis diſtin<g ref="char:EOLhyphen"/>guere publico quaſi gentium Conſenſu receptum eſt: <g ref="char:V">Ʋ</g>t puta in Italia Millibus Paſſuum in Graecia Stadiis; in Perſide Paraſangis, quod nomen hodie ineagente remanet, in Syria Schaenis in Gallia &amp; Hiſpania Leucis, quod ad huc retinetur: in Germania Ruſtis, ut eſt apud Hieronymum. Scaligs De Emendat Temp.</hi> l. 5.</note> the moſt uſual are theſe.</p>
+                  <pb n="81" facs="tcp:57294:49"/>
+                  <p>Firſt, A Geometrical <hi>pace</hi> which is five <hi>feet.</hi>
+                  </p>
+                  <p>Secondly, A <hi>Furlong</hi> which is 125 <hi>paces,</hi> or 625 <hi>feet.</hi>
+                  </p>
+                  <p>Thirdly, A <hi>Mile</hi> which is eight <hi>furlongs,</hi> or a thouſand <hi>paces.</hi>
+                  </p>
+                  <p>Fourthly, A <hi>League</hi> which is 2 <hi>Miles</hi> in the quantity of <hi>Meaſures,</hi> we go from a Barley Corn to a Finger breadth, from a Finger breadth to an inch; from an inch to a hand breadth; from an hand breadth to a ſpan; from a ſpan to a foot; from a foot to a pace, and ſo forth to a pearch, a furlong, a leque, a mile.</p>
+                  <p>
+                     <hi>Keckerman</hi> in his <hi>Systeme</hi> of <hi>Geogra<g ref="char:EOLhyphen"/>phy. l.</hi> 1. <hi>c.</hi> 4. ſaith, the general inſtru<g ref="char:EOLhyphen"/>ments of meaſure are either leſſer, a Bar<g ref="char:EOLhyphen"/>ly Corn, a Finger, a Palm, a Foot; or greater, a Pace, a Furlong, a Mile. He ſaith, the Pace is either ſimple two Feet and a half, or Geometricall, five Feet.</p>
+                  <p>The Sabbath-days journey, <hi>Acts</hi> 1.12. was the ſpace of two thouſand paces, that is, half a <hi>German</hi> mile. <hi>Victorinus Strigelius in loc.</hi>
+                  </p>
+                  <p>There are <hi>Menſurae applicationis,</hi> as a ſpan, a cubit, a yard.</p>
+                  <p>
+                     <hi>Et menſurae Capacitatis,</hi> either of things liquide, a Pint, Quart, Pottle,
+<pb n="82" facs="tcp:57294:50"/>Gallon, Firkin, Barrel, Hogſhead, Pipe, Tunne, or things dry; a Peck, Buſhel, Quarters.</p>
+                  <p>The <hi>Greeks</hi> did mete out the diſtances of places by <hi>Stadia</hi>
+                     <note n="†" place="margin">
+                        <hi>Stadium apud Ro<g ref="char:EOLhyphen"/>manos</hi> DCXXV. <hi>pedes Romanos facit, apud Graecos</hi> DC. <hi>pedes Graecos.</hi> DC. <hi>pedes Graecos.</hi> Dilh. <hi>Diſ<g ref="char:EOLhyphen"/>putat. Aca<g ref="char:EOLhyphen"/>dem. Tomus</hi> 1. <hi>Stadium quod Latine Curriculum dicitur, locus erat, in quo homines &amp; equi curſi, tabant, &amp; aethletae certabant, à ſtatione, quod</hi> Hercules <hi>eo ſpatio uno ſpiritu confecto conſtitiſſet Onuphrius Panvinus De Ludis Cirenſi<g ref="char:EOLhyphen"/>bus.</hi> l. 2. c, 1.</note> or <hi>Furlongs;</hi> one <hi>Stadium</hi> doth contain 125 <hi>paces;</hi> hence eight <hi>Stadia</hi> make one <hi>Roman</hi> mile, that is, one thouſand <hi>paces.</hi> Mr. <hi>Greaves</hi> ſaith ſeven <hi>Greek Stadia</hi> and a half, make a <hi>Roman</hi> mile.</p>
+                  <p>
+                     <hi>Furlong
+<note n="*" place="margin">
+                           <hi>Sulcum noſtri di<g ref="char:EOLhyphen"/>cunt agri<g ref="char:EOLhyphen"/>colae id quod uno progreſſu arat rum deſcribit antequam regredi<g ref="char:EOLhyphen"/>tur.</hi> Spelmanni Gloſſarium.</note> quaſi</hi> a Furrow long, a Fur<g ref="char:EOLhyphen"/>row, <hi>hoc eſt quod longitudinem ſulci deter<g ref="char:EOLhyphen"/>minatur,</hi> a 125 paces.</p>
+                  <p>An Acre mentioned, 1 <hi>Sam.</hi> 14.14. and <hi>Eſa.</hi> 1.10. <hi>Jugerum eſt quantum ju<g ref="char:EOLhyphen"/>gum bonum uno die poteſt ex arare. Peter Martyr</hi> in 1 <hi>Sam.</hi> 14. An Acre is ſo much land, as a couple of Oxen are able to Plow in one day. Among the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi>
+                     <pb n="83" facs="tcp:57294:50"/>it was eſteemed to be 240 Foot in length, and a 120 in breadth. See <hi>Plin. Nat. Hiſt.</hi> l. 18. c. 3.</p>
+                  <p>The <hi>Perſians</hi> made uſe of their kind of meaſure called <hi>Paraſanga,</hi>
+                     <note place="margin">
+                        <hi>Eſt vox Paraſan<g ref="char:EOLhyphen"/>gae Perſica, ac ſocero meo Fr. Junio in Elogio Linguae Hebraeae videtur corrupta ex</hi> Paraſch, <hi>hoe eſt,</hi> Eques, <hi>&amp;</hi> Aggarus, <hi>hot eſt, tabellio. Quia nempe ſic vocaretur in<g ref="char:EOLhyphen"/>tervallum inter duo loca, loca, quibus equum mutaret ta<g ref="char:EOLhyphen"/>bellio.</hi> Voſſi Etymologicon Linguae Latinae.</note> and by them at this day <hi>Farſach,</hi> whereof each did contain 30 <hi>Stadia,</hi> 4 miles, ſaith <hi>L'Em<g ref="char:EOLhyphen"/>pereur</hi> in his Notes on <hi>Benjamins Itine<g ref="char:EOLhyphen"/>rary.</hi>
+                  </p>
+                  <p>See of it in Mr. <hi>Greaves</hi> his Epiſtle to Mr. <hi>Selden</hi> before his Diſcourſe of the <hi>Roman Foot</hi> and <hi>Denarius. Muſladinus Sadus</hi> calls them <hi>Farſeng,</hi> the <hi>Arabians Ferſach,</hi> and the <hi>Latines Paraſanga. Gen<g ref="char:EOLhyphen"/>tius;</hi> Whence the <hi>Latines</hi> uſe that Phraſe, <hi>Multis paraſangis ſuperare.</hi>
+                  </p>
+                  <p>Among the <hi>Greeks</hi> and <hi>Romans</hi> for meaſuring, the <hi>Perch</hi> was in uſe, as in theſe times in <hi>Europe,</hi> among the <hi>Egyp<g ref="char:EOLhyphen"/>tians, Arabians</hi> and <hi>Perſians,</hi> the <hi>Para<g ref="char:EOLhyphen"/>ſanga</hi> and <hi>Schoenus,</hi> Among the <hi>He<g ref="char:EOLhyphen"/>brews</hi> the <hi>Kane</hi> or <hi>Reed, Angelo Crator.</hi>
+                  </p>
+                  <pb n="84" facs="tcp:57294:51"/>
+                  <p>Now a days the name of Mile is moſt uſed by the <hi>Italians, Germans, Danes, Norweigians, Sweeds, Engliſh, Scots.</hi>
+                  </p>
+                  <p>
+                     <hi>Keckerman</hi> in the book and chapter before quoted, ſaith, a mile is either proper, containing a 1000 paces, which being alwaies uſed in <hi>Italy,</hi> is called <hi>Ita<g ref="char:EOLhyphen"/>lian,</hi> or improper, either a league or a <hi>German</hi> mile: A league (ſaith he) is either old, that is, a proper mile and a half, or new, (which they call a <hi>French</hi> mile) two proper miles. Four <hi>German</hi> mile is either common 4000 paces, or great, 5 thouſand paces.</p>
+                  <p>The <hi>Spaniards</hi> and <hi>French</hi> met out their diſtance of places by <hi>Leagues,
+<note place="margin">
+                           <hi>Leuca per<g ref="char:EOLhyphen"/>peram, ut puta, vul<g ref="char:EOLhyphen"/>go nuncu<g ref="char:EOLhyphen"/>patur, Cum Leu<g ref="char:EOLhyphen"/>va ſit ge<g ref="char:EOLhyphen"/>nuinum nomen, quod Curſum &amp; deſtimatum certum ſpatium Curſus de no<g ref="char:EOLhyphen"/>tat</hi> Barthi. <hi>Ad</hi> Rutil l. 2. <hi>Animadvers vide</hi> Spelmanni Gloſ<g ref="char:EOLhyphen"/>ſarium. <hi>Leuca recentioris menſurae nomen Maſſaeus. Hist. Ind.</hi> lib. 1.</note> Leu<g ref="char:EOLhyphen"/>cae</hi> or <hi>Leugae,</hi> which are of a different length, as the miles in other Nations, <hi>Peter Martyr</hi> in his <hi>Decades</hi> ſaith, a league contains four miles by Sea, and but three by Land. From <hi>Spain</hi> to <hi>Hi<g ref="char:EOLhyphen"/>ſpaniola</hi> is a 1200 leagues.</p>
+                  <p>The <hi>Ruſſians</hi> or <hi>Muſcovites</hi> reckon their diſtances of places by a certain
+<pb n="85" facs="tcp:57294:51"/>ſpace which they in their native tongue call <hi>Voreſt.</hi>
+                  </p>
+                  <p>
+                     <hi>Purchas</hi> in his <hi>Pilgrims</hi> ſpeaks of the <hi>Coſe</hi> among the <hi>Chinois</hi> and <hi>Eaſt-Indians.</hi> The <hi>Courſe</hi> or <hi>Coſe,</hi> ſaith he, is a mile and a half, ſomtimes two miles; moſt <hi>Engliſh</hi> Mathematicians accord with the <hi>Italians,</hi> and reckon 60 miles to a degree. The <hi>Gothick</hi> and <hi>Sweediſh</hi> mile is 5 or 6 <hi>Italian</hi> miles, ſomtimes 8. The Common <hi>Engliſh</hi>
+                     <note n="*" place="margin">An <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> mile containeth 5280 foot.</note> mile makes one and a half <hi>Ita<g ref="char:EOLhyphen"/>lian; Villamont</hi> ſaith, that a <hi>French</hi> league contains two <hi>Italian</hi> miles.</p>
+                  <p>The common <hi>German</hi> mile being for the moſt part in plain makes more then 3 <hi>Engliſh</hi> or 5 <hi>Italian</hi> miles; but in ſome places the ſolitude and the aſcent of mountains make the miles of <hi>Germany</hi> ſeem much longer; one Dutch mile and a half makes a mile of <hi>Switzerland.</hi> The miles of <hi>Switzerland</hi> being over conti<g ref="char:EOLhyphen"/>nual mountains are ſo long, as the paſ<g ref="char:EOLhyphen"/>ſengers diſtinguiſh their Journy more by the ſpaces of hours, then by the diſtances or numbers of miles. The miles of <hi>Bohe<g ref="char:EOLhyphen"/>mia</hi> and <hi>Moravia</hi> are no leſs tedious, and though the length of the <hi>Switzers</hi> and <hi>Bohemian</hi> miles may in part be attribu<g ref="char:EOLhyphen"/>ted to the climbing of the mountains and
+<pb n="86" facs="tcp:57294:52"/>bad way, yet no ſuch reaſon can be gi<g ref="char:EOLhyphen"/>ven for the miles of <hi>Moravia,</hi> which countrey is either a plane, or full of little pleaſant Hills, and the ways fair, and the Country well inhabited.</p>
+                  <p>The <hi>Low-Country</hi> miles are of a mid<g ref="char:EOLhyphen"/>dle length between the <hi>German</hi> and <hi>French</hi> miles, among which the miles of <hi>Holland</hi> and <hi>Freezeland</hi> are longer than the reſt.</p>
+                  <p>The mile of <hi>Denmark</hi> is ſomewhat longer then 3 <hi>Engliſh</hi> miles, and anſwer<g ref="char:EOLhyphen"/>eth to the common <hi>German</hi> mile.</p>
+                  <p>The miles of <hi>Poland</hi> generally are like the miles of <hi>Denmark.</hi>
+                  </p>
+                  <p>The <hi>Turks</hi> at this day have no diſtin<g ref="char:EOLhyphen"/>ction of their ways by miles, nor days by hours.
+<note place="margin">
+                        <hi>Maſſaus Hiſt. Ind.</hi> l. 6. Cubitus <hi>dictus ple<g ref="char:EOLhyphen"/>riſque vi<g ref="char:EOLhyphen"/>detur à cu<g ref="char:EOLhyphen"/>bando.</hi> Voſſii Ety<g ref="char:EOLhyphen"/>mologicon Linguae Latinae. <hi>Joſ.</hi> 3.4. <hi>John</hi> 21.8.</note>
+                  </p>
+                  <p>
+                     <hi>Ychan</hi> is a kind of meaſure among thoſe of <hi>China,</hi> the journy of one day.</p>
+                  <p>A <hi>Cubit</hi> is the length of a mans arme from his Elbow to the top of his middle finger, it contains <hi>ſix hand breadths,</hi> or a <hi>foot and an half.</hi>
+                  </p>
+                  <p>It was the moſt common meaſure in dimenſions of length, breadth, height and depth among the <hi>Jews, Gen.</hi> 6.15. <hi>Exod.</hi> 25.10.</p>
+                  <pb n="87" facs="tcp:57294:52"/>
+                  <p>Some ſay the Cubits were of 2 ſorts,
+<note place="margin">
+                        <hi>Plerique tam Ebrae<g ref="char:EOLhyphen"/>orum, quàm no<g ref="char:EOLhyphen"/>ſtrorum qui eos ſe<g ref="char:EOLhyphen"/>quuntur, duplicem in illo po<g ref="char:EOLhyphen"/>pulo fuiſſe menſu<g ref="char:EOLhyphen"/>ram ve<g ref="char:EOLhyphen"/>lunt ejuſdem nominis, unam communem, quae minor fue<g ref="char:EOLhyphen"/>rit; alteram ſacram, quae major: Itaque Communem Cu<g ref="char:EOLhyphen"/>bitum fuiſſe quinque palmorum, ſacrum autem Sex.</hi> Rivetus <hi>in</hi> Exod. 25.10. <hi>Vide plura ibid.</hi>
+                     </note> the Civil or common Cubit, conſiſting of one foot and an half ſix hand breadths, 24 finger breadths, and eighteen thumb breadths; and the ſacred or holy Cubit, that conſiſted of an hand breadth, or 4 fingers more then that other, <hi>Ezek.</hi> 40.5. and 43.13, <hi>Vide L'Empereur praefat. ad Cod. Middoth.</hi>
+                  </p>
+                  <p>Mr. <hi>Ley</hi> on <hi>Gen.</hi> 5.15. mentions 3 ſorts of Cubits.</p>
+                  <p n="1">1. The Common Cubit containing 5 palms of 4 fingers breadth.</p>
+                  <p n="2">2. The Cubit of the Sanctuary one palm more, <hi>Ezek.</hi> 40.5.</p>
+                  <p n="3">3. The Geometrical Cubit, 6 times as great as the common Cubit. See him on <hi>Gen,</hi> 20.16. and on <hi>Deut.</hi> 3.11. and <hi>Dutch Annotat.</hi> on <hi>Gen.</hi> 6.15.</p>
+                  <p>
+                     <hi>Epephanus</hi> hath written <hi>De Menſuris.</hi> And <hi>Caſper Wolphius</hi> hath put out an Al<g ref="char:EOLhyphen"/>phabetital Enumeration of the famous men, who have written of the doctrine of weights and meaſures.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:57294:53"/>
+                  <pb facs="tcp:57294:53"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
